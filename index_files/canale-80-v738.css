@@ -1,0 +1,1099 @@
+.icon{width:80px;height:60px;display:inline-block;margin:4px 8px;font-size:0}
+.icon span{width:80px;height:60px;float:left}
+#c-romanesti{background:#f1f1f9}
+#c-romanesti span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-0px 0px}
+#c-sport{background:#f1f1f9}
+#c-sport span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-80px 0px}
+#c-filme{background:#f1f1f9}
+#c-filme span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-160px 0px}
+#c-documentare{background:#f1f1f9}
+#c-documentare span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-240px 0px}
+#c-desene-animate{background:#f1f1f9}
+#c-desene-animate span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-320px 0px}
+#c-stiri{background:#f1f1f9}
+#c-stiri span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-400px 0px}
+#c-locale{background:#f1f1f9}
+#c-locale span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-480px 0px}
+#c-religioase{background:#f1f1f9}
+#c-religioase span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-560px 0px}
+#c-muzica{background:#f1f1f9}
+#c-muzica span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-640px 0px}
+#c-moldova{background:#f1f1f9}
+#c-moldova span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-720px 0px}
+#c-echipe-fotbal{background:#f1f1f9}
+#c-echipe-fotbal span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-800px 0px}
+#c-straine{background:#f1f1f9}
+#c-straine span{background-image:url(//stvron.com/canale/cat/cat-80-v708.png);background-position:-880px 0px}
+#c-kukurigu span{display:none!important}
+#c-pro-tv{background:#7bc3e0}
+#c-pro-tv span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-0px 0px}
+#c-antena-1{background:#f0e1e1}
+#c-antena-1 span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-80px 0px}
+#c-kanal-d{background:#f1f1f9}
+#c-kanal-d span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-160px 0px}
+#c-tvr-1{background:#72623d}
+#c-tvr-1 span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-240px 0px}
+#c-prima-tv{background:#f0e1e1}
+#c-prima-tv span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-320px 0px}
+#c-national-tv{background:#f1f1f9}
+#c-national-tv span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-400px 0px}
+#c-pro-x{background:#607983}
+#c-pro-x span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-480px 0px}
+#c-antena-stars{background:#f0e1e1}
+#c-antena-stars span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-560px 0px}
+#c-tvr-hd{background:#72623d}
+#c-tvr-hd span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-640px 0px}
+#c-protv-international{background:#f1f1f9}
+#c-protv-international span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-720px 0px}
+#c-tvr-2{background:#72623d}
+#c-tvr-2 span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-800px 0px}
+#c-otv span{display:none!important}
+#c-tvr-3{background:#72623d}
+#c-tvr-3 span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-880px 0px}
+#c-tvr-international{background:#72623d}
+#c-tvr-international span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-960px 0px}
+#c-n24-plus{background:#f1f1f9}
+#c-n24-plus span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1040px 0px}
+#c-tvr-cultural span{display:none!important}
+#c-6tv{background:#f1f1f9}
+#c-6tv span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1120px 0px}
+#c-inedit-tv{background:#f1f1f9}
+#c-inedit-tv span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1200px 0px}
+#c-mireasa{background:#72623d}
+#c-mireasa span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1280px 0px}
+#c-telestar-1{background:#f1f1f9}
+#c-telestar-1 span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1360px 0px}
+#c-antena-international{background:#f0e1e1}
+#c-antena-international span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1440px 0px}
+#c-cook-play{background:#f1f1f9}
+#c-cook-play span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1520px 0px}
+#c-comedy-play{background:#f1f1f9}
+#c-comedy-play span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1600px 0px}
+#c-kapital-tv{background:#f1f1f9}
+#c-kapital-tv span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1680px 0px}
+#c-cornea-tv{background:#607983}
+#c-cornea-tv span{background-image:url(//stvron.com/canale/cat/romanesti-80-v708.png);background-position:-1760px 0px}
+#c-digi-sport-1 span{display:none!important}
+#c-telekom-sport-1{background:#f1f1f9}
+#c-telekom-sport-1 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-0px 0px}
+#c-digi-sport-2 span{display:none!important}
+#c-meciuri-online{background:#f1f1f9}
+#c-meciuri-online span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-80px 0px}
+#c-eurosport{background:#f1f1f9}
+#c-eurosport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-160px 0px}
+#c-telekom-sport-3{background:#f1f1f9}
+#c-telekom-sport-3 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-240px 0px}
+#c-digi-sport-3 span{display:none!important}
+#c-telekom-sport-2{background:#f1f1f9}
+#c-telekom-sport-2 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-320px 0px}
+#c-look-sport{background:#f1f1f9}
+#c-look-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-400px 0px}
+#c-eurosport-2{background:#f1f1f9}
+#c-eurosport-2 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-480px 0px}
+#c-gsptv span{display:none!important}
+#c-look-plus{background:#f1f1f9}
+#c-look-plus span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-560px 0px}
+#c-auto-moto-tv span{display:none!important}
+#c-fightbox-hd{background:#f1f1f9}
+#c-fightbox-hd span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-640px 0px}
+#c-telekom-sport-4{background:#f1f1f9}
+#c-telekom-sport-4 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-720px 0px}
+#c-mma-24-7 span{display:none!important}
+#c-sky-sports-italia{background:#f1f1f9}
+#c-sky-sports-italia span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-800px 0px}
+#c-sky-sports-uk{background:#f1f1f9}
+#c-sky-sports-uk span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-880px 0px}
+#c-europa-league-tv{background:#f0e1e1}
+#c-europa-league-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-960px 0px}
+#c-bein-sports{background:#f1f1f9}
+#c-bein-sports span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1040px 0px}
+#c-premier-league-tv{background:#f1f1f9}
+#c-premier-league-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1120px 0px}
+#c-rai-sport{background:#f1f1f9}
+#c-rai-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1200px 0px}
+#c-sport-tv{background:#607983}
+#c-sport-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1280px 0px}
+#c-bt-sport{background:#f1f1f9}
+#c-bt-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1360px 0px}
+#c-super-tennis{background:#f1f1f9}
+#c-super-tennis span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1440px 0px}
+#c-viasat-motor span{display:none!important}
+#c-digi-sport-4 span{display:none!important}
+#c-serie-a-tv{background:#f1f1f9}
+#c-serie-a-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1520px 0px}
+#c-ligue-1-tv{background:#f1f1f9}
+#c-ligue-1-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1600px 0px}
+#c-liga-campionilor-tv{background:#f1f1f9}
+#c-liga-campionilor-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1680px 0px}
+#c-sport-cehia span{display:none!important}
+#c-arena-sport{background:#f1f1f9}
+#c-arena-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1760px 0px}
+#c-sky-bundesliga{background:#f1f1f9}
+#c-sky-bundesliga span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1840px 0px}
+#c-moto-gp{background:#f1f1f9}
+#c-moto-gp span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-1920px 0px}
+#c-box{background:#f1f1f9}
+#c-box span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2000px 0px}
+#c-arenavision{background:#f1f1f9}
+#c-arenavision span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2080px 0px}
+#c-fifa-tv{background:#f1f1f9}
+#c-fifa-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2160px 0px}
+#c-ziggo-sport{background:#f1f1f9}
+#c-ziggo-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2240px 0px}
+#c-fox-sports{background:#f1f1f9}
+#c-fox-sports span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2320px 0px}
+#c-tsn{background:#f1f1f9}
+#c-tsn span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2400px 0px}
+#c-match-tv{background:#f1f1f9}
+#c-match-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2480px 0px}
+#c-extreme-sports{background:#f0e1e1}
+#c-extreme-sports span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2560px 0px}
+#c-setanta-sports{background:#f1f1f9}
+#c-setanta-sports span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2640px 0px}
+#c-eurosport-news{background:#f0e1e1}
+#c-eurosport-news span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2720px 0px}
+#c-sky-sport-de{background:#f0e1e1}
+#c-sky-sport-de span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2800px 0px}
+#c-viasat-golf{background:#f1f1f9}
+#c-viasat-golf span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2880px 0px}
+#c-formula-1{background:#f1f1f9}
+#c-formula-1 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-2960px 0px}
+#c-frf-tv{background:#f1f1f9}
+#c-frf-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3040px 0px}
+#c-diema-sport{background:#f1f1f9}
+#c-diema-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3120px 0px}
+#c-kazsport{background:#f1f1f9}
+#c-kazsport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3200px 0px}
+#c-viasat-fotboll{background:#f1f1f9}
+#c-viasat-fotboll span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3280px 0px}
+#c-sport-1-israel span{display:none!important}
+#c-benfica-tv span{display:none!important}
+#c-belarus-5{background:#f0e1e1}
+#c-belarus-5 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3360px 0px}
+#c-cbc-sport{background:#f1f1f9}
+#c-cbc-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3440px 0px}
+#c-polsat-sport{background:#f1f1f9}
+#c-polsat-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3520px 0px}
+#c-bein-sports-turkey{background:#f1f1f9}
+#c-bein-sports-turkey span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3600px 0px}
+#c-tenis-fete{background:#f0e1e1}
+#c-tenis-fete span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3680px 0px}
+#c-kukurigu-sport-1{background:#f1f1f9}
+#c-kukurigu-sport-1 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3760px 0px}
+#c-wwe-tv{background:#f0e1e1}
+#c-wwe-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3840px 0px}
+#c-kukurigu-sport-2{background:#f1f1f9}
+#c-kukurigu-sport-2 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-3920px 0px}
+#c-kukurigu-sport-3{background:#f1f1f9}
+#c-kukurigu-sport-3 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4000px 0px}
+#c-kukurigu-sport-4{background:#f1f1f9}
+#c-kukurigu-sport-4 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4080px 0px}
+#c-gol-tv{background:#f1f1f9}
+#c-gol-tv span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4160px 0px}
+#c-arena-sport-slovacia{background:#f1f1f9}
+#c-arena-sport-slovacia span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4240px 0px}
+#c-m4-sport{background:#f1f1f9}
+#c-m4-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4320px 0px}
+#c-play-sports{background:#f1f1f9}
+#c-play-sports span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4400px 0px}
+#c-okko-sport{background:#f1f1f9}
+#c-okko-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4480px 0px}
+#c-premier-sports{background:#f1f1f9}
+#c-premier-sports span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4560px 0px}
+#c-trt-spor{background:#f1f1f9}
+#c-trt-spor span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4640px 0px}
+#c-nbc-sports{background:#f1f1f9}
+#c-nbc-sports span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4720px 0px}
+#c-tv2-sport{background:#f1f1f9}
+#c-tv2-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4800px 0px}
+#c-match-game{background:#f1f1f9}
+#c-match-game span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4880px 0px}
+#c-atp-tenis{background:#f1f1f9}
+#c-atp-tenis span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-4960px 0px}
+#c-fotbal-feminin{background:#f1f1f9}
+#c-fotbal-feminin span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5040px 0px}
+#c-match-premier{background:#f1f1f9}
+#c-match-premier span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5120px 0px}
+#c-match-futbol-1{background:#f1f1f9}
+#c-match-futbol-1 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5200px 0px}
+#c-match-futbol-2{background:#f1f1f9}
+#c-match-futbol-2 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5280px 0px}
+#c-match-futbol-3{background:#f1f1f9}
+#c-match-futbol-3 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5360px 0px}
+#c-look-sport-2{background:#f1f1f9}
+#c-look-sport-2 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5440px 0px}
+#c-look-sport-3{background:#f1f1f9}
+#c-look-sport-3 span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5520px 0px}
+#c-match-arena{background:#f1f1f9}
+#c-match-arena span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5600px 0px}
+#c-eurosport-gold{background:#f1f1f9}
+#c-eurosport-gold span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5680px 0px}
+#c-rmc-sport{background:#f1f1f9}
+#c-rmc-sport span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5760px 0px}
+#c-match-fight{background:#f1f1f9}
+#c-match-fight span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5840px 0px}
+#c-eurosport-international{background:#f1f1f9}
+#c-eurosport-international span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-5920px 0px}
+#c-fight-time{background:#f1f1f9}
+#c-fight-time span{background-image:url(//stvron.com/canale/cat/sport-80-v708.png);background-position:-6000px 0px}
+#c-hbo-romania{background:#f1f1f9}
+#c-hbo-romania span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-0px 0px}
+#c-pro-2{background:#f0e1e1}
+#c-pro-2 span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-80px 0px}
+#c-digi-film span{display:none!important}
+#c-hbo-3{background:#f1f1f9}
+#c-hbo-3 span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-160px 0px}
+#c-tv1000{background:#f1f1f9}
+#c-tv1000 span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-240px 0px}
+#c-axn{background:#f0e1e1}
+#c-axn span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-320px 0px}
+#c-pro-cinema{background:#cdcdf6}
+#c-pro-cinema span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-400px 0px}
+#c-film-cafe{background:#f1f1f9}
+#c-film-cafe span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-480px 0px}
+#c-axn-white{background:#607983}
+#c-axn-white span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-560px 0px}
+#c-filmbox{background:#f1f1f9}
+#c-filmbox span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-640px 0px}
+#c-diva{background:#f1f1f9}
+#c-diva span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-720px 0px}
+#c-happy-channel{background:#607983}
+#c-happy-channel span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-800px 0px}
+#c-cinemax{background:#f1f1f9}
+#c-cinemax span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-880px 0px}
+#c-axn-black{background:#f1f1f9}
+#c-axn-black span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-960px 0px}
+#c-action-star span{display:none!important}
+#c-filmbox-family{background:#f1f1f9}
+#c-filmbox-family span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1040px 0px}
+#c-pro-gold{background:#72623d}
+#c-pro-gold span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1120px 0px}
+#c-mgm span{display:none!important}
+#c-movies-24 span{display:none!important}
+#c-cinemax-2{background:#f1f1f9}
+#c-cinemax-2 span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1200px 0px}
+#c-bollywood-tv{background:#607983}
+#c-bollywood-tv span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1280px 0px}
+#c-axn-spin{background:#f1f1f9}
+#c-axn-spin span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1360px 0px}
+#c-bollywood-clasic{background:#607983}
+#c-bollywood-clasic span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1440px 0px}
+#c-romantica-tv span{display:none!important}
+#c-nelutu-tv span{display:none!important}
+#c-tnt{background:#f1f1f9}
+#c-tnt span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1520px 0px}
+#c-paramount-channel{background:#f1f1f9}
+#c-paramount-channel span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1600px 0px}
+#c-voyo span{display:none!important}
+#c-filme-romanesti span{display:none!important}
+#c-cinestar span{display:none!important}
+#c-comedy-central{background:#f1f1f9}
+#c-comedy-central span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1680px 0px}
+#c-amc{background:#f1f1f9}
+#c-amc span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1760px 0px}
+#c-hbo-2{background:#f1f1f9}
+#c-hbo-2 span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1840px 0px}
+#c-showtime-iq span{display:none!important}
+#c-film-1 span{display:none!important}
+#c-syfy{background:#607983}
+#c-syfy span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-1920px 0px}
+#c-amedia{background:#f1f1f9}
+#c-amedia span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-2000px 0px}
+#c-epic-drama{background:#f1f1f9}
+#c-epic-drama span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-2080px 0px}
+#c-cinemaraton{background:#f1f1f9}
+#c-cinemaraton span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-2160px 0px}
+#c-one-tv{background:#f1f1f9}
+#c-one-tv span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-2240px 0px}
+#c-comedy-est{background:#f1f1f9}
+#c-comedy-est span{background-image:url(//stvron.com/canale/cat/filme-80-v708.png);background-position:-2320px 0px}
+#c-history{background:#f1f1f9}
+#c-history span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-0px 0px}
+#c-discovery-channel{background:#f1f1f9}
+#c-discovery-channel span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-80px 0px}
+#c-national-geographic{background:#f1f1f9}
+#c-national-geographic span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-160px 0px}
+#c-investigation-discovery{background:#f1f1f9}
+#c-investigation-discovery span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-240px 0px}
+#c-nat-geo-wild{background:#f1f1f9}
+#c-nat-geo-wild span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-320px 0px}
+#c-discovery-science{background:#f1f1f9}
+#c-discovery-science span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-400px 0px}
+#c-tv-paprika{background:#f1f1f9}
+#c-tv-paprika span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-480px 0px}
+#c-viasat-history{background:#f1f1f9}
+#c-viasat-history span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-560px 0px}
+#c-discovery-world span{display:none!important}
+#c-tlc{background:#f1f1f9}
+#c-tlc span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-640px 0px}
+#c-animal-planet{background:#f1f1f9}
+#c-animal-planet span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-720px 0px}
+#c-viasat-nature{background:#f1f1f9}
+#c-viasat-nature span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-800px 0px}
+#c-viasat-explore{background:#f1f1f9}
+#c-viasat-explore span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-880px 0px}
+#c-fishing-and-hunting{background:#f1f1f9}
+#c-fishing-and-hunting span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-960px 0px}
+#c-digi-world span{display:none!important}
+#c-pivnita-tv span{display:none!important}
+#c-info-pescar{background:#f1f1f9}
+#c-info-pescar span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1040px 0px}
+#c-digi-animal-world span{display:none!important}
+#c-digi-life span{display:none!important}
+#c-discovery-hd{background:#f1f1f9}
+#c-discovery-hd span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1120px 0px}
+#c-zeitgeist-tv span{display:none!important}
+#c-travel-mix{background:#f1f1f9}
+#c-travel-mix span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1200px 0px}
+#c-meritocratia-tv span{display:none!important}
+#c-cbs-reality{background:#f1f1f9}
+#c-cbs-reality span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1280px 0px}
+#c-travel-channel{background:#f1f1f9}
+#c-travel-channel span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1360px 0px}
+#c-bbc-earth{background:#f1f1f9}
+#c-bbc-earth span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1440px 0px}
+#c-nasa-tv{background:#f1f1f9}
+#c-nasa-tv span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1520px 0px}
+#c-fine-living{background:#f1f1f9}
+#c-fine-living span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1600px 0px}
+#c-da-vinci-kids{background:#f1f1f9}
+#c-da-vinci-kids span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1680px 0px}
+#c-e-entertainment{background:#f1f1f9}
+#c-e-entertainment span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1760px 0px}
+#c-dtx{background:#f0e1e1}
+#c-dtx span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1840px 0px}
+#c-crime-investigation{background:#f1f1f9}
+#c-crime-investigation span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-1920px 0px}
+#c-food-network{background:#f1f1f9}
+#c-food-network span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-2000px 0px}
+#c-fashion-tv{background:#f1f1f9}
+#c-fashion-tv span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-2080px 0px}
+#c-arcadia-tv{background:#f1f1f9}
+#c-arcadia-tv span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-2160px 0px}
+#c-cgtn-documentary{background:#f1f1f9}
+#c-cgtn-documentary span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-2240px 0px}
+#c-docubox{background:#f1f1f9}
+#c-docubox span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-2320px 0px}
+#c-hgtv{background:#f1f1f9}
+#c-hgtv span{background-image:url(//stvron.com/canale/cat/documentare-80-v708.png);background-position:-2400px 0px}
+#c-disney-channel{background:#f1f1f9}
+#c-disney-channel span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-0px 0px}
+#c-cartoon-network{background:#f1f1f9}
+#c-cartoon-network span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-80px 0px}
+#c-disney-junior{background:#f1f1f9}
+#c-disney-junior span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-160px 0px}
+#c-boomerang{background:#f1f1f9}
+#c-boomerang span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-240px 0px}
+#c-desenele-copilariei span{display:none!important}
+#c-nickelodeon{background:#f1f1f9}
+#c-nickelodeon span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-320px 0px}
+#c-minimax{background:#7bc3e0}
+#c-minimax span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-400px 0px}
+#c-jetix span{display:none!important}
+#c-megamax{background:#f1f1f9}
+#c-megamax span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-480px 0px}
+#c-duck-tv{background:#f1f1f9}
+#c-duck-tv span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-560px 0px}
+#c-jimjam{background:#f1f1f9}
+#c-jimjam span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-640px 0px}
+#c-nickelodeon-junior{background:#f1f1f9}
+#c-nickelodeon-junior span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-720px 0px}
+#c-tvh{background:#f1f1f9}
+#c-tvh span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-800px 0px}
+#c-anime-bites span{display:none!important}
+#c-tom-jerry{background:#f1f1f9}
+#c-tom-jerry span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-880px 0px}
+#c-gurinel-tv{background:#f1f1f9}
+#c-gurinel-tv span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-960px 0px}
+#c-baby-tv{background:#f1f1f9}
+#c-baby-tv span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-1040px 0px}
+#c-karusel-tv{background:#f1f1f9}
+#c-karusel-tv span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-1120px 0px}
+#c-nick-toons{background:#f1f1f9}
+#c-nick-toons span{background-image:url(//stvron.com/canale/cat/desene-animate-80-v708.png);background-position:-1200px 0px}
+#c-antena-3{background:#f1f1f9}
+#c-antena-3 span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-0px 0px}
+#c-realitatea-tv{background:#f1f1f9}
+#c-realitatea-tv span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-80px 0px}
+#c-rtv{background:#f1f1f9}
+#c-rtv span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-160px 0px}
+#c-b1-tv{background:#f1f1f9}
+#c-b1-tv span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-240px 0px}
+#c-digi-24-hd span{display:none!important}
+#c-protv-news{background:#f1f1f9}
+#c-protv-news span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-320px 0px}
+#c-nasul-tv{background:#f1f1f9}
+#c-nasul-tv span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-400px 0px}
+#c-giga-tv span{display:none!important}
+#c-tvr-news span{display:none!important}
+#c-euronews{background:#f1f1f9}
+#c-euronews span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-480px 0px}
+#c-bbc-news{background:#f1f1f9}
+#c-bbc-news span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-560px 0px}
+#c-al-jazeera{background:#f1f1f9}
+#c-al-jazeera span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-640px 0px}
+#c-the-money-channel span{display:none!important}
+#c-agro-tv{background:#f1f1f9}
+#c-agro-tv span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-720px 0px}
+#c-rai-news{background:#f1f1f9}
+#c-rai-news span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-800px 0px}
+#c-deutsche-welle{background:#f1f1f9}
+#c-deutsche-welle span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-880px 0px}
+#c-russia-today{background:#f1f1f9}
+#c-russia-today span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-960px 0px}
+#c-canal-33{background:#f1f1f9}
+#c-canal-33 span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-1040px 0px}
+#c-profit-ro{background:#f1f1f9}
+#c-profit-ro span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-1120px 0px}
+#c-realitatea-tv-plus{background:#f0e1e1}
+#c-realitatea-tv-plus span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-1200px 0px}
+#c-earth-tv{background:#f1f1f9}
+#c-earth-tv span{background-image:url(//stvron.com/canale/cat/stiri-80-v708.png);background-position:-1280px 0px}
+#c-tv-plus-suceava{background:#f1f1f9}
+#c-tv-plus-suceava span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-0px 0px}
+#c-neptun-tv{background:#f1f1f9}
+#c-neptun-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-80px 0px}
+#c-iasi-tv-life{background:#363636}
+#c-iasi-tv-life span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-160px 0px}
+#c-n1-tv span{display:none!important}
+#c-litoral-tv{background:#f1f1f9}
+#c-litoral-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-240px 0px}
+#c-tv-alpha-media{background:#f1f1f9}
+#c-tv-alpha-media span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-320px 0px}
+#c-bucovina-tv{background:#f1f1f9}
+#c-bucovina-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-400px 0px}
+#c-banat-tv{background:#607983}
+#c-banat-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-480px 0px}
+#c-alba-tv span{display:none!important}
+#c-mix-tv-brasov{background:#f1f1f9}
+#c-mix-tv-brasov span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-560px 0px}
+#c-1-tv-neamt{background:#f1f1f9}
+#c-1-tv-neamt span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-640px 0px}
+#c-muscel-tv{background:#f1f1f9}
+#c-muscel-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-720px 0px}
+#c-curier-tv{background:#f1f1f9}
+#c-curier-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-800px 0px}
+#c-somes-tv span{display:none!important}
+#c-salajeanul-tv{background:#f1f1f9}
+#c-salajeanul-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-880px 0px}
+#c-nord-vest-tv{background:#f1f1f9}
+#c-nord-vest-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-960px 0px}
+#c-tv1-satul-mare span{display:none!important}
+#c-columna-tv{background:#607983}
+#c-columna-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1040px 0px}
+#c-ploiesti-tv{background:#f1f1f9}
+#c-ploiesti-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1120px 0px}
+#c-alege-tv{background:#f1f1f9}
+#c-alege-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1200px 0px}
+#c-vest-tv-resita{background:#f1f1f9}
+#c-vest-tv-resita span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1280px 0px}
+#c-absolut-tv span{display:none!important}
+#c-tv-radauti span{display:none!important}
+#c-valea-prahovei-tv{background:#f1f1f9}
+#c-valea-prahovei-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1360px 0px}
+#c-partener-tv{background:#f1f1f9}
+#c-partener-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1440px 0px}
+#c-crisana-tv span{display:none!important}
+#c-accent-tv-targu-jiu{background:#363636}
+#c-accent-tv-targu-jiu span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1520px 0px}
+#c-tv-city{background:#f1f1f9}
+#c-tv-city span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1600px 0px}
+#c-tvr-regional span{display:none!important}
+#c-tv-sud{background:#f1f1f9}
+#c-tv-sud span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1680px 0px}
+#c-mdi-tv{background:#607983}
+#c-mdi-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1760px 0px}
+#c-campus-tv{background:#607983}
+#c-campus-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1840px 0px}
+#c-dareghin-tv span{display:none!important}
+#c-intermedia-tv{background:#f1f1f9}
+#c-intermedia-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-1920px 0px}
+#c-regio-tv span{display:none!important}
+#c-somax-tv{background:#f1f1f9}
+#c-somax-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2000px 0px}
+#c-tvr-iasi{background:#72623d}
+#c-tvr-iasi span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2080px 0px}
+#c-tvr-cluj{background:#72623d}
+#c-tvr-cluj span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2160px 0px}
+#c-tvr-timisoara{background:#72623d}
+#c-tvr-timisoara span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2240px 0px}
+#c-tvr-craiova{background:#72623d}
+#c-tvr-craiova span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2320px 0px}
+#c-tvr-targu-mures{background:#72623d}
+#c-tvr-targu-mures span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2400px 0px}
+#c-tele-m-iasi{background:#f1f1f9}
+#c-tele-m-iasi span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2480px 0px}
+#c-tele-m-botosani{background:#f1f1f9}
+#c-tele-m-botosani span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2560px 0px}
+#c-bucuresti-tv{background:#f0e1e1}
+#c-bucuresti-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2640px 0px}
+#c-super-tv-arges{background:#f1f1f9}
+#c-super-tv-arges span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2720px 0px}
+#c-tv-sud-est{background:#f1f1f9}
+#c-tv-sud-est span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2800px 0px}
+#c-cromtel-tv{background:#f1f1f9}
+#c-cromtel-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2880px 0px}
+#c-tele-moldova-plus{background:#f1f1f9}
+#c-tele-moldova-plus span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-2960px 0px}
+#c-actualitatea-tv{background:#f1f1f9}
+#c-actualitatea-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3040px 0px}
+#c-nest-tv{background:#f1f1f9}
+#c-nest-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3120px 0px}
+#c-tv-buzau{background:#f1f1f9}
+#c-tv-buzau span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3200px 0px}
+#c-acum-tv{background:#f1f1f9}
+#c-acum-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3280px 0px}
+#c-infinit-tv{background:#f1f1f9}
+#c-infinit-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3360px 0px}
+#c-informatia-tv{background:#f1f1f9}
+#c-informatia-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3440px 0px}
+#c-tv-sat{background:#f1f1f9}
+#c-tv-sat span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3520px 0px}
+#c-a7tv-bucuresti{background:#f1f1f9}
+#c-a7tv-bucuresti span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3600px 0px}
+#c-gagiu-tv-oltenia{background:#f1f1f9}
+#c-gagiu-tv-oltenia span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3680px 0px}
+#c-tv-sighet{background:#f1f1f9}
+#c-tv-sighet span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3760px 0px}
+#c-bit-tv{background:#f1f1f9}
+#c-bit-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3840px 0px}
+#c-ardeal-tv{background:#f1f1f9}
+#c-ardeal-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-3920px 0px}
+#c-maramures-tv{background:#f1f1f9}
+#c-maramures-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4000px 0px}
+#c-rts-severin{background:#f1f1f9}
+#c-rts-severin span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4080px 0px}
+#c-tvn-tv{background:#f1f1f9}
+#c-tvn-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4160px 0px}
+#c-tl-plus-maramures{background:#f1f1f9}
+#c-tl-plus-maramures span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4240px 0px}
+#c-sangeorz-tv{background:#f1f1f9}
+#c-sangeorz-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4320px 0px}
+#c-vtv{background:#f1f1f9}
+#c-vtv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4400px 0px}
+#c-tele-2-drobeta{background:#f1f1f9}
+#c-tele-2-drobeta span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4480px 0px}
+#c-rtv-galaxy{background:#f1f1f9}
+#c-rtv-galaxy span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4560px 0px}
+#c-nova-tv-brasov{background:#f1f1f9}
+#c-nova-tv-brasov span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4640px 0px}
+#c-brasov-tv{background:#f1f1f9}
+#c-brasov-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4720px 0px}
+#c-tele-europa-nova{background:#f1f1f9}
+#c-tele-europa-nova span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4800px 0px}
+#c-arges-tv{background:#f1f1f9}
+#c-arges-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4880px 0px}
+#c-info-hd-deva{background:#f1f1f9}
+#c-info-hd-deva span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-4960px 0px}
+#c-ncn{background:#f1f1f9}
+#c-ncn span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-5040px 0px}
+#c-est-tv{background:#f1f1f9}
+#c-est-tv span{background-image:url(//stvron.com/canale/cat/locale-80-v708.png);background-position:-5120px 0px}
+#c-trinitas-tv{background:#f1f1f9}
+#c-trinitas-tv span{background-image:url(//stvron.com/canale/cat/religioase-80-v708.png);background-position:-0px 0px}
+#c-speranta-tv{background:#f1f1f9}
+#c-speranta-tv span{background-image:url(//stvron.com/canale/cat/religioase-80-v708.png);background-position:-80px 0px}
+#c-alfa-omega-tv{background:#f1f1f9}
+#c-alfa-omega-tv span{background-image:url(//stvron.com/canale/cat/religioase-80-v708.png);background-position:-160px 0px}
+#c-credo-tv{background:#f1f1f9}
+#c-credo-tv span{background-image:url(//stvron.com/canale/cat/religioase-80-v708.png);background-position:-240px 0px}
+#c-christ4rotv span{display:none!important}
+#c-ortodox-tv span{display:none!important}
+#c-ciresarii-tv{background:#f1f1f9}
+#c-ciresarii-tv span{background-image:url(//stvron.com/canale/cat/religioase-80-v708.png);background-position:-320px 0px}
+#c-zutv{background:#f1f1f9}
+#c-zutv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-0px 0px}
+#c-kiss-tv{background:#f1f1f9}
+#c-kiss-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-80px 0px}
+#c-etno-tv{background:#f1f1f9}
+#c-etno-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-160px 0px}
+#c-music-channel{background:#f1f1f9}
+#c-music-channel span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-240px 0px}
+#c-hora-tv{background:#f1f1f9}
+#c-hora-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-320px 0px}
+#c-impact-tv{background:#f1f1f9}
+#c-impact-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-400px 0px}
+#c-favorit-tv{background:#607983}
+#c-favorit-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-480px 0px}
+#c-utv{background:#f1f1f9}
+#c-utv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-560px 0px}
+#c-dance-tv span{display:none!important}
+#c-atomic-tv{background:#607983}
+#c-atomic-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-640px 0px}
+#c-party-tv span{display:none!important}
+#c-mtv{background:#f1f1f9}
+#c-mtv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-720px 0px}
+#c-one-hd span{display:none!important}
+#c-mooz-tv{background:#f0e1e1}
+#c-mooz-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-800px 0px}
+#c-musicbox{background:#f1f1f9}
+#c-musicbox span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-880px 0px}
+#c-cosmos-tv span{display:none!important}
+#c-friends-hub span{display:none!important}
+#c-traditional-tv{background:#f1f1f9}
+#c-traditional-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-960px 0px}
+#c-mezzo-tv{background:#f1f1f9}
+#c-mezzo-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1040px 0px}
+#c-vevo-tv{background:#f1f1f9}
+#c-vevo-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1120px 0px}
+#c-hit-music-channel{background:#f1f1f9}
+#c-hit-music-channel span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1200px 0px}
+#c-magic-tv{background:#f1f1f9}
+#c-magic-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1280px 0px}
+#c-rock-tv{background:#f1f1f9}
+#c-rock-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1360px 0px}
+#c-romantic-tv span{display:none!important}
+#c-m2o-tv{background:#f1f1f9}
+#c-m2o-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1440px 0px}
+#c-cat-music{background:#f1f1f9}
+#c-cat-music span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1520px 0px}
+#c-vh1{background:#f1f1f9}
+#c-vh1 span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1600px 0px}
+#c-taraf-tv{background:#72623d}
+#c-taraf-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1680px 0px}
+#c-c-music-tv{background:#f1f1f9}
+#c-c-music-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1760px 0px}
+#c-dibi-tv{background:#f1f1f9}
+#c-dibi-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1840px 0px}
+#c-diaspora-tv{background:#f1f1f9}
+#c-diaspora-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-1920px 0px}
+#c-traditii-tv{background:#f1f1f9}
+#c-traditii-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2000px 0px}
+#c-balkanika-tv{background:#f0e1e1}
+#c-balkanika-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2080px 0px}
+#c-hit-tv{background:#f0e1e1}
+#c-hit-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2160px 0px}
+#c-orizont-tv{background:#f1f1f9}
+#c-orizont-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2240px 0px}
+#c-etnic-tv{background:#f1f1f9}
+#c-etnic-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2320px 0px}
+#c-rapsodia-tv{background:#f1f1f9}
+#c-rapsodia-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2400px 0px}
+#c-tezaur-tv{background:#f1f1f9}
+#c-tezaur-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2480px 0px}
+#c-n-sat-tv{background:#607983}
+#c-n-sat-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2560px 0px}
+#c-alb-music{background:#607983}
+#c-alb-music span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2640px 0px}
+#c-deejay-tv{background:#f1f1f9}
+#c-deejay-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2720px 0px}
+#c-miorita-tv{background:#f1f1f9}
+#c-miorita-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2800px 0px}
+#c-cmc-music{background:#f1f1f9}
+#c-cmc-music span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2880px 0px}
+#c-djing-tv{background:#f1f1f9}
+#c-djing-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-2960px 0px}
+#c-dm-sat{background:#f1f1f9}
+#c-dm-sat span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-3040px 0px}
+#c-dream-tv{background:#f1f1f9}
+#c-dream-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-3120px 0px}
+#c-ds-tv{background:#f1f1f9}
+#c-ds-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-3200px 0px}
+#c-fen-tv{background:#f1f1f9}
+#c-fen-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-3280px 0px}
+#c-folklor-tv{background:#f1f1f9}
+#c-folklor-tv span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-3360px 0px}
+#c-hayat-folk{background:#f1f1f9}
+#c-hayat-folk span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-3440px 0px}
+#c-mcm-top{background:#f1f1f9}
+#c-mcm-top span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-3520px 0px}
+#c-eu-music{background:#f1f1f9}
+#c-eu-music span{background-image:url(//stvron.com/canale/cat/muzica-80-v708.png);background-position:-3600px 0px}
+#c-jurnal-tv{background:#f1f1f9}
+#c-jurnal-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-0px 0px}
+#c-moldova-1{background:#f1f1f9}
+#c-moldova-1 span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-80px 0px}
+#c-publika-tv{background:#f1f1f9}
+#c-publika-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-160px 0px}
+#c-moldova-sport{background:#f1f1f9}
+#c-moldova-sport span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-240px 0px}
+#c-canal-3{background:#f1f1f9}
+#c-canal-3 span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-320px 0px}
+#c-canal-2{background:#f1f1f9}
+#c-canal-2 span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-400px 0px}
+#c-euro-tv{background:#f1f1f9}
+#c-euro-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-480px 0px}
+#c-accent-tv{background:#f1f1f9}
+#c-accent-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-560px 0px}
+#c-tnt-bravo{background:#f1f1f9}
+#c-tnt-bravo span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-640px 0px}
+#c-prime-tv{background:#f1f1f9}
+#c-prime-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-720px 0px}
+#c-busuioc-tv{background:#f1f1f9}
+#c-busuioc-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-800px 0px}
+#c-noroc-tv{background:#f1f1f9}
+#c-noroc-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-880px 0px}
+#c-a-one{background:#f1f1f9}
+#c-a-one span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-960px 0px}
+#c-gold-tv{background:#607983}
+#c-gold-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1040px 0px}
+#c-vocea-basarabiei{background:#607983}
+#c-vocea-basarabiei span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1120px 0px}
+#c-moldova-2{background:#f1f1f9}
+#c-moldova-2 span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1200px 0px}
+#c-ren-tv{background:#f1f1f9}
+#c-ren-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1280px 0px}
+#c-ru-tv{background:#f1f1f9}
+#c-ru-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1360px 0px}
+#c-tvc-21{background:#f1f1f9}
+#c-tvc-21 span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1440px 0px}
+#c-europa-plus{background:#f1f1f9}
+#c-europa-plus span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1520px 0px}
+#c-tv8 span{display:none!important}
+#c-national-4{background:#f1f1f9}
+#c-national-4 span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1600px 0px}
+#c-alt-tv{background:#f1f1f9}
+#c-alt-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1680px 0px}
+#c-popas-tv{background:#f1f1f9}
+#c-popas-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1760px 0px}
+#c-soroca-tv{background:#f1f1f9}
+#c-soroca-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1840px 0px}
+#c-zona-m{background:#f1f1f9}
+#c-zona-m span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-1920px 0px}
+#c-10-tv{background:#7bc3e0}
+#c-10-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2000px 0px}
+#c-tvr-moldova{background:#72623d}
+#c-tvr-moldova span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2080px 0px}
+#c-pro-tv-chisinau{background:#f1f1f9}
+#c-pro-tv-chisinau span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2160px 0px}
+#c-agro-tv-moldova{background:#f1f1f9}
+#c-agro-tv-moldova span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2240px 0px}
+#c-canal-regional{background:#f1f1f9}
+#c-canal-regional span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2320px 0px}
+#c-drochia-tv{background:#f1f1f9}
+#c-drochia-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2400px 0px}
+#c-axial-tv{background:#f1f1f9}
+#c-axial-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2480px 0px}
+#c-ctc-mega{background:#f1f1f9}
+#c-ctc-mega span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2560px 0px}
+#c-elita-tv-rezina{background:#363636}
+#c-elita-tv-rezina span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2640px 0px}
+#c-familia-domashniy{background:#f1f1f9}
+#c-familia-domashniy span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2720px 0px}
+#c-primul-tv{background:#f1f1f9}
+#c-primul-tv span{background-image:url(//stvron.com/canale/cat/moldova-80-v708.png);background-position:-2800px 0px}
+#c-rai-1{background:#f1f1f9}
+#c-rai-1 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-0px 0px}
+#c-rai-2{background:#f1f1f9}
+#c-rai-2 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-80px 0px}
+#c-rai-3{background:#f1f1f9}
+#c-rai-3 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-160px 0px}
+#c-rai-4{background:#f1f1f9}
+#c-rai-4 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-240px 0px}
+#c-boing{background:#f1f1f9}
+#c-boing span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-320px 0px}
+#c-canale-5{background:#f1f1f9}
+#c-canale-5 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-400px 0px}
+#c-rai-storia{background:#f1f1f9}
+#c-rai-storia span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-480px 0px}
+#c-teleticino{background:#f1f1f9}
+#c-teleticino span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-560px 0px}
+#c-canale-7{background:#f1f1f9}
+#c-canale-7 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-640px 0px}
+#c-frisbee{background:#f1f1f9}
+#c-frisbee span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-720px 0px}
+#c-la-6 span{display:none!important}
+#c-canale-italia{background:#f1f1f9}
+#c-canale-italia span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-800px 0px}
+#c-italia-1{background:#f1f1f9}
+#c-italia-1 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-880px 0px}
+#c-rete-4{background:#f1f1f9}
+#c-rete-4 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-960px 0px}
+#c-italia-2{background:#f1f1f9}
+#c-italia-2 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1040px 0px}
+#c-iris-mediaset{background:#f1f1f9}
+#c-iris-mediaset span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1120px 0px}
+#c-rai-yoyo{background:#f1f1f9}
+#c-rai-yoyo span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1200px 0px}
+#c-rai-gulp{background:#f1f1f9}
+#c-rai-gulp span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1280px 0px}
+#c-rai-premium{background:#f1f1f9}
+#c-rai-premium span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1360px 0px}
+#c-rai-movie{background:#f1f1f9}
+#c-rai-movie span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1440px 0px}
+#c-rai-5{background:#f1f1f9}
+#c-rai-5 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1520px 0px}
+#c-tv-8{background:#f1f1f9}
+#c-tv-8 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1600px 0px}
+#c-rsi-la-1{background:#f1f1f9}
+#c-rsi-la-1 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1680px 0px}
+#c-cielo{background:#f1f1f9}
+#c-cielo span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1760px 0px}
+#c-la7{background:#f1f1f9}
+#c-la7 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1840px 0px}
+#c-la5{background:#f1f1f9}
+#c-la5 span{background-image:url(//stvron.com/canale/cat/italia-80-v708.png);background-position:-1920px 0px}
+#c-sport-1{background:#f1f1f9}
+#c-sport-1 span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-0px 0px}
+#c-rtl{background:#f1f1f9}
+#c-rtl span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-80px 0px}
+#c-kika{background:#f1f1f9}
+#c-kika span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-160px 0px}
+#c-das-erste{background:#f1f1f9}
+#c-das-erste span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-240px 0px}
+#c-zdf{background:#f1f1f9}
+#c-zdf span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-320px 0px}
+#c-vox{background:#f1f1f9}
+#c-vox span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-400px 0px}
+#c-viva-tv{background:#f1f1f9}
+#c-viva-tv span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-480px 0px}
+#c-prosieben{background:#f1f1f9}
+#c-prosieben span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-560px 0px}
+#c-sat-1{background:#f1f1f9}
+#c-sat-1 span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-640px 0px}
+#c-3-sat{background:#f1f1f9}
+#c-3-sat span{background-image:url(//stvron.com/canale/cat/germania-80-v708.png);background-position:-720px 0px}
+#c-espn{background:#f1f1f9}
+#c-espn span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-0px 0px}
+#c-cnn{background:#f1f1f9}
+#c-cnn span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-80px 0px}
+#c-showtime{background:#f1f1f9}
+#c-showtime span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-160px 0px}
+#c-abc{background:#f1f1f9}
+#c-abc span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-240px 0px}
+#c-nba-tv{background:#f1f1f9}
+#c-nba-tv span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-320px 0px}
+#c-bloomberg{background:#f1f1f9}
+#c-bloomberg span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-400px 0px}
+#c-nbc{background:#f1f1f9}
+#c-nbc span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-480px 0px}
+#c-cbs{background:#f1f1f9}
+#c-cbs span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-560px 0px}
+#c-fox{background:#f1f1f9}
+#c-fox span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-640px 0px}
+#c-the-cw{background:#f1f1f9}
+#c-the-cw span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-720px 0px}
+#c-starz-tv{background:#f1f1f9}
+#c-starz-tv span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-800px 0px}
+#c-arts-entertainment{background:#f1f1f9}
+#c-arts-entertainment span{background-image:url(//stvron.com/canale/cat/america-80-v708.png);background-position:-880px 0px}
+#c-tv5-monde-europe{background:#f1f1f9}
+#c-tv5-monde-europe span{background-image:url(//stvron.com/canale/cat/franta-80-v708.png);background-position:-0px 0px}
+#c-france-24{background:#f1f1f9}
+#c-france-24 span{background-image:url(//stvron.com/canale/cat/franta-80-v708.png);background-position:-80px 0px}
+#c-tv-francophonie{background:#f1f1f9}
+#c-tv-francophonie span{background-image:url(//stvron.com/canale/cat/franta-80-v708.png);background-position:-160px 0px}
+#c-tf1{background:#f1f1f9}
+#c-tf1 span{background-image:url(//stvron.com/canale/cat/franta-80-v708.png);background-position:-240px 0px}
+#c-ntv-ru{background:#f1f1f9}
+#c-ntv-ru span{background-image:url(//stvron.com/canale/cat/rusia-80-v708.png);background-position:-0px 0px}
+#c-russia-sport{background:#f1f1f9}
+#c-russia-sport span{background-image:url(//stvron.com/canale/cat/rusia-80-v708.png);background-position:-80px 0px}
+#c-russia{background:#f1f1f9}
+#c-russia span{background-image:url(//stvron.com/canale/cat/rusia-80-v708.png);background-position:-160px 0px}
+#c-moscova-24{background:#f1f1f9}
+#c-moscova-24 span{background-image:url(//stvron.com/canale/cat/rusia-80-v708.png);background-position:-240px 0px}
+#c-1hd{background:#f0e1e1}
+#c-1hd span{background-image:url(//stvron.com/canale/cat/rusia-80-v708.png);background-position:-320px 0px}
+#c-1tv{background:#f1f1f9}
+#c-1tv span{background-image:url(//stvron.com/canale/cat/rusia-80-v708.png);background-position:-400px 0px}
+#c-bbc{background:#f1f1f9}
+#c-bbc span{background-image:url(//stvron.com/canale/cat/marea-britanie-80-v708.png);background-position:-0px 0px}
+#c-itv{background:#f1f1f9}
+#c-itv span{background-image:url(//stvron.com/canale/cat/marea-britanie-80-v708.png);background-position:-80px 0px}
+#c-sky-tv{background:#72623d}
+#c-sky-tv span{background-image:url(//stvron.com/canale/cat/marea-britanie-80-v708.png);background-position:-160px 0px}
+#c-english-club-tv{background:#f0e1e1}
+#c-english-club-tv span{background-image:url(//stvron.com/canale/cat/marea-britanie-80-v708.png);background-position:-240px 0px}
+#c-orf{background:#f1f1f9}
+#c-orf span{background-image:url(//stvron.com/canale/cat/austria-80-v708.png);background-position:-0px 0px}
+#c-okto-tv{background:#f1f1f9}
+#c-okto-tv span{background-image:url(//stvron.com/canale/cat/austria-80-v708.png);background-position:-80px 0px}
+#c-austria-24{background:#f1f1f9}
+#c-austria-24 span{background-image:url(//stvron.com/canale/cat/austria-80-v708.png);background-position:-160px 0px}
+#c-universal-channel{background:#f1f1f9}
+#c-universal-channel span{background-image:url(//stvron.com/canale/cat/portugalia-80-v708.png);background-position:-0px 0px}
+#c-canal-hollywood{background:#f1f1f9}
+#c-canal-hollywood span{background-image:url(//stvron.com/canale/cat/portugalia-80-v708.png);background-position:-80px 0px}
+#c-rtp{background:#f1f1f9}
+#c-rtp span{background-image:url(//stvron.com/canale/cat/portugalia-80-v708.png);background-position:-160px 0px}
+#c-sic{background:#f1f1f9}
+#c-sic span{background-image:url(//stvron.com/canale/cat/portugalia-80-v708.png);background-position:-240px 0px}
+#c-tvi{background:#f1f1f9}
+#c-tvi span{background-image:url(//stvron.com/canale/cat/portugalia-80-v708.png);background-position:-320px 0px}
+#c-hbo-brazil{background:#f1f1f9}
+#c-hbo-brazil span{background-image:url(//stvron.com/canale/cat/portugalia-80-v708.png);background-position:-400px 0px}
+#c-m-tv{background:#f1f1f9}
+#c-m-tv span{background-image:url(//stvron.com/canale/cat/ungaria-80-v708.png);background-position:-0px 0px}
+#c-duna-tv{background:#f1f1f9}
+#c-duna-tv span{background-image:url(//stvron.com/canale/cat/ungaria-80-v708.png);background-position:-80px 0px}
+#c-atv{background:#f1f1f9}
+#c-atv span{background-image:url(//stvron.com/canale/cat/ungaria-80-v708.png);background-position:-160px 0px}
+#c-rtl-klub{background:#f1f1f9}
+#c-rtl-klub span{background-image:url(//stvron.com/canale/cat/ungaria-80-v708.png);background-position:-240px 0px}
+#c-cool-tv{background:#f1f1f9}
+#c-cool-tv span{background-image:url(//stvron.com/canale/cat/ungaria-80-v708.png);background-position:-320px 0px}
+#c-erdely-tv{background:#f1f1f9}
+#c-erdely-tv span{background-image:url(//stvron.com/canale/cat/ungaria-80-v708.png);background-position:-400px 0px}
+#c-ceska-televize{background:#f1f1f9}
+#c-ceska-televize span{background-image:url(//stvron.com/canale/cat/cehia-80-v708.png);background-position:-0px 0px}
+#c-tv-nova{background:#f1f1f9}
+#c-tv-nova span{background-image:url(//stvron.com/canale/cat/cehia-80-v708.png);background-position:-80px 0px}
+#c-ftv-prima span{display:none!important}
+#c-ct-sport{background:#f1f1f9}
+#c-ct-sport span{background-image:url(//stvron.com/canale/cat/cehia-80-v708.png);background-position:-160px 0px}
+#c-3-plus span{display:none!important}
+#c-srf{background:#f1f1f9}
+#c-srf span{background-image:url(//stvron.com/canale/cat/elvetia-80-v708.png);background-position:-0px 0px}
+#c-teleclub{background:#f1f1f9}
+#c-teleclub span{background-image:url(//stvron.com/canale/cat/elvetia-80-v708.png);background-position:-80px 0px}
+#c-antena-tres{background:#f1f1f9}
+#c-antena-tres span{background-image:url(//stvron.com/canale/cat/spania-80-v708.png);background-position:-0px 0px}
+#c-telecinco{background:#f1f1f9}
+#c-telecinco span{background-image:url(//stvron.com/canale/cat/spania-80-v708.png);background-position:-80px 0px}
+#c-tve{background:#f1f1f9}
+#c-tve span{background-image:url(//stvron.com/canale/cat/spania-80-v708.png);background-position:-160px 0px}
+#c-la-sexta{background:#f1f1f9}
+#c-la-sexta span{background-image:url(//stvron.com/canale/cat/spania-80-v708.png);background-position:-240px 0px}
+#c-cuatro{background:#f1f1f9}
+#c-cuatro span{background-image:url(//stvron.com/canale/cat/spania-80-v708.png);background-position:-320px 0px}
+#c-tele-madrid-sat{background:#f1f1f9}
+#c-tele-madrid-sat span{background-image:url(//stvron.com/canale/cat/spania-80-v708.png);background-position:-400px 0px}
+#c-logos-tv{background:#363636}
+#c-logos-tv span{background-image:url(//stvron.com/canale/cat/spania-80-v708.png);background-position:-480px 0px}
+#c-be-mad{background:#f1f1f9}
+#c-be-mad span{background-image:url(//stvron.com/canale/cat/spania-80-v708.png);background-position:-560px 0px}
+#c-sport-klub{background:#f1f1f9}
+#c-sport-klub span{background-image:url(//stvron.com/canale/cat/croatia-80-v708.png);background-position:-0px 0px}
+#c-nova-tv span{display:none!important}
+#c-rtl-televizija{background:#f1f1f9}
+#c-rtl-televizija span{background-image:url(//stvron.com/canale/cat/croatia-80-v708.png);background-position:-80px 0px}
+#c-hrt{background:#607983}
+#c-hrt span{background-image:url(//stvron.com/canale/cat/croatia-80-v708.png);background-position:-160px 0px}
+#c-1-plus-1{background:#f1f1f9}
+#c-1-plus-1 span{background-image:url(//stvron.com/canale/cat/ucraina-80-v708.png);background-position:-0px 0px}
+#c-football-ucraina{background:#f1f1f9}
+#c-football-ucraina span{background-image:url(//stvron.com/canale/cat/ucraina-80-v708.png);background-position:-80px 0px}
+#c-inter-tv{background:#f1f1f9}
+#c-inter-tv span{background-image:url(//stvron.com/canale/cat/ucraina-80-v708.png);background-position:-160px 0px}
+#c-ukrayina{background:#f1f1f9}
+#c-ukrayina span{background-image:url(//stvron.com/canale/cat/ucraina-80-v708.png);background-position:-240px 0px}
+#c-stb{background:#f1f1f9}
+#c-stb span{background-image:url(//stvron.com/canale/cat/ucraina-80-v708.png);background-position:-320px 0px}
+#c-ntn{background:#f1f1f9}
+#c-ntn span{background-image:url(//stvron.com/canale/cat/ucraina-80-v708.png);background-position:-400px 0px}
+#c-novyj-kanal{background:#f1f1f9}
+#c-novyj-kanal span{background-image:url(//stvron.com/canale/cat/ucraina-80-v708.png);background-position:-480px 0px}
+#c-ictv{background:#f1f1f9}
+#c-ictv span{background-image:url(//stvron.com/canale/cat/ucraina-80-v708.png);background-position:-560px 0px}
+#c-2-plus-2{background:#f1f1f9}
+#c-2-plus-2 span{background-image:url(//stvron.com/canale/cat/ucraina-80-v708.png);background-position:-640px 0px}
+#c-colors-tv{background:#7bc3e0}
+#c-colors-tv span{background-image:url(//stvron.com/canale/cat/india-80-v708.png);background-position:-0px 0px}
+#c-star-tv{background:#f1f1f9}
+#c-star-tv span{background-image:url(//stvron.com/canale/cat/india-80-v708.png);background-position:-80px 0px}
+#c-zee-tv{background:#f1f1f9}
+#c-zee-tv span{background-image:url(//stvron.com/canale/cat/india-80-v708.png);background-position:-160px 0px}
+#c-life-ok{background:#f1f1f9}
+#c-life-ok span{background-image:url(//stvron.com/canale/cat/india-80-v708.png);background-position:-240px 0px}
+#c-sony-tv-india{background:#f1f1f9}
+#c-sony-tv-india span{background-image:url(//stvron.com/canale/cat/india-80-v708.png);background-position:-320px 0px}
+#c-dd-national{background:#f1f1f9}
+#c-dd-national span{background-image:url(//stvron.com/canale/cat/india-80-v708.png);background-position:-400px 0px}
+#c-rts{background:#607983}
+#c-rts span{background-image:url(//stvron.com/canale/cat/serbia-80-v708.png);background-position:-0px 0px}
+#c-prva-tv{background:#363636}
+#c-prva-tv span{background-image:url(//stvron.com/canale/cat/serbia-80-v708.png);background-position:-80px 0px}
+#c-novatv{background:#f1f1f9}
+#c-novatv span{background-image:url(//stvron.com/canale/cat/bulgaria-80-v708.png);background-position:-0px 0px}
+#c-bnt{background:#f1f1f9}
+#c-bnt span{background-image:url(//stvron.com/canale/cat/bulgaria-80-v708.png);background-position:-80px 0px}
+#c-veronica-tv{background:#f1f1f9}
+#c-veronica-tv span{background-image:url(//stvron.com/canale/cat/olanda-80-v708.png);background-position:-0px 0px}
+#c-npo{background:#f1f1f9}
+#c-npo span{background-image:url(//stvron.com/canale/cat/olanda-80-v708.png);background-position:-80px 0px}
+#c-rtl-xl span{display:none!important}
+#c-fox-nl span{display:none!important}
+#c-sbs span{display:none!important}
+#c-sundance{background:#f1f1f9}
+#c-sundance span{background-image:url(//stvron.com/canale/cat/canada-80-v708.png);background-position:-0px 0px}
+#c-ntn-24{background:#f1f1f9}
+#c-ntn-24 span{background-image:url(//stvron.com/canale/cat/columbia-80-v708.png);background-position:-0px 0px}
+#c-canal-caracol{background:#f1f1f9}
+#c-canal-caracol span{background-image:url(//stvron.com/canale/cat/columbia-80-v708.png);background-position:-80px 0px}
+#c-canal-rcn{background:#f1f1f9}
+#c-canal-rcn span{background-image:url(//stvron.com/canale/cat/columbia-80-v708.png);background-position:-160px 0px}
+#c-city-tv-bogota{background:#f1f1f9}
+#c-city-tv-bogota span{background-image:url(//stvron.com/canale/cat/columbia-80-v708.png);background-position:-240px 0px}
+#c-el-tiempo-tv{background:#f1f1f9}
+#c-el-tiempo-tv span{background-image:url(//stvron.com/canale/cat/columbia-80-v708.png);background-position:-320px 0px}
+#c-trt{background:#f0e1e1}
+#c-trt span{background-image:url(//stvron.com/canale/cat/turcia-80-v708.png);background-position:-0px 0px}
+#c-atv-turk{background:#f1f1f9}
+#c-atv-turk span{background-image:url(//stvron.com/canale/cat/turcia-80-v708.png);background-position:-80px 0px}
+#c-wawa-tv span{display:none!important}
+#c-rzeczpospolita-tv{background:#f1f1f9}
+#c-rzeczpospolita-tv span{background-image:url(//stvron.com/canale/cat/polonia-80-v708.png);background-position:-0px 0px}
+#c-chelsea-tv{background:#607983}
+#c-chelsea-tv span{background-image:url(//stvron.com/canale/cat/echipe-fotbal-80-v708.png);background-position:-0px 0px}
+#c-celtic-tv{background:#f1f1f9}
+#c-celtic-tv span{background-image:url(//stvron.com/canale/cat/echipe-fotbal-80-v708.png);background-position:-80px 0px}
+#c-real-madrid-tv{background:#f1f1f9}
+#c-real-madrid-tv span{background-image:url(//stvron.com/canale/cat/echipe-fotbal-80-v708.png);background-position:-160px 0px}
+#c-italia{background:#f1f1f9}
+#c-italia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-0px 0px}
+#c-germania{background:#f1f1f9}
+#c-germania span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-80px 0px}
+#c-america{background:#f1f1f9}
+#c-america span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-160px 0px}
+#c-franta{background:#f1f1f9}
+#c-franta span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-240px 0px}
+#c-rusia{background:#f1f1f9}
+#c-rusia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-320px 0px}
+#c-marea-britanie{background:#f1f1f9}
+#c-marea-britanie span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-400px 0px}
+#c-austria{background:#f1f1f9}
+#c-austria span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-480px 0px}
+#c-portugalia{background:#f1f1f9}
+#c-portugalia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-560px 0px}
+#c-ungaria{background:#f1f1f9}
+#c-ungaria span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-640px 0px}
+#c-cehia{background:#f1f1f9}
+#c-cehia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-720px 0px}
+#c-elvetia{background:#f1f1f9}
+#c-elvetia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-800px 0px}
+#c-spania{background:#f1f1f9}
+#c-spania span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-880px 0px}
+#c-croatia{background:#f1f1f9}
+#c-croatia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-960px 0px}
+#c-ucraina{background:#f1f1f9}
+#c-ucraina span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1040px 0px}
+#c-india{background:#f1f1f9}
+#c-india span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1120px 0px}
+#c-serbia{background:#f1f1f9}
+#c-serbia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1200px 0px}
+#c-bulgaria{background:#f1f1f9}
+#c-bulgaria span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1280px 0px}
+#c-olanda{background:#f1f1f9}
+#c-olanda span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1360px 0px}
+#c-canada{background:#f1f1f9}
+#c-canada span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1440px 0px}
+#c-columbia{background:#f1f1f9}
+#c-columbia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1520px 0px}
+#c-turcia{background:#f1f1f9}
+#c-turcia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1600px 0px}
+#c-polonia{background:#f1f1f9}
+#c-polonia span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1680px 0px}
+#c-albania{background:#f1f1f9}
+#c-albania span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1760px 0px}
+#c-belgia span{display:none!important}
+#c-tv2-norge{background:#f1f1f9}
+#c-tv2-norge span{background-image:url(//stvron.com/canale/cat/straine-80-v708.png);background-position:-1840px 0px}
+#c-kukurigu-news{background:#f1f1f9}
+#c-kukurigu-news span{background-image:url(//stvron.com/canale/cat/kukurigu-80-v708.png);background-position:-0px 0px}
+#c-kukurigu-animal{background:#f1f1f9}
+#c-kukurigu-animal span{background-image:url(//stvron.com/canale/cat/kukurigu-80-v708.png);background-position:-80px 0px}
+#c-kukurigu-world{background:#f1f1f9}
+#c-kukurigu-world span{background-image:url(//stvron.com/canale/cat/kukurigu-80-v708.png);background-position:-160px 0px}
+#c-kukurigu-life{background:#f1f1f9}
+#c-kukurigu-life span{background-image:url(//stvron.com/canale/cat/kukurigu-80-v708.png);background-position:-240px 0px}
+#c-kukurigu-film{background:#f1f1f9}
+#c-kukurigu-film span{background-image:url(//stvron.com/canale/cat/kukurigu-80-v708.png);background-position:-320px 0px}
+#c-canvas{background:#f1f1f9}
+#c-canvas span{background-image:url(//stvron.com/canale/cat/belgia-80-v708.png);background-position:-0px 0px}
+#c-q2-tv{background:#f1f1f9}
+#c-q2-tv span{background-image:url(//stvron.com/canale/cat/belgia-80-v708.png);background-position:-80px 0px}
+#c-vtm{background:#f1f1f9}
+#c-vtm span{background-image:url(//stvron.com/canale/cat/belgia-80-v708.png);background-position:-160px 0px}
+#c-vier{background:#f1f1f9}
+#c-vier span{background-image:url(//stvron.com/canale/cat/belgia-80-v708.png);background-position:-240px 0px}

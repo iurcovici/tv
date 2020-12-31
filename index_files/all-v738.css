@@ -1,0 +1,1842 @@
+
+body{font-size:14px;text-align:center;margin:0 ;}
+body.s1,body.s2,body.s3,body.s4,body.s5{font-size:12px}
+*{
+
+
+    font-family:"Tahoma",sans-serif 
+}
+#header,#header *,#rmenu *,#cc span,#sc *,h1,h2,h3{
+    font-family: 'Oswald', sans-serif!important;
+}
+img{border:0}
+a,.a,.goto{text-decoration:none;font-weight:bold;cursor:pointer}
+.psort.a{padding-left:5px;}
+h1,h2,h3{margin:0;font-size:20px}
+h2{margin:0;font-size:18px}
+h3{margin:0;font-size:16px}
+.hh{overflow:hidden;text-align:center;line-height:24px}
+.hh div,.hh span,.hh h1{float:left;display:inline-block!important}
+
+.hh h1,.s9 .hh hdisplay:block;2,.hh a,#mesajbox,.footer *,.info{font-size:20px}
+
+.s1 h1,.s1 h2,.s1 .hh a,.s1 #mesajbox,.s1 .footer *,.s1 .info{font-size:12px}
+.s2 h1,.s2 h2,.s2 .hh a,.s2 #mesajbox,.s2 .footer *,.s2 .info{font-size:13px}
+.s3 h1,.s3 h2,.s3 .hh a,.s3 #mesajbox,.s3 .footer *,.s3 .info{font-size:14px}
+.s4 h1,.s4 h2,.s4 .hh a,.s4 #mesajbox,.s4 .footer *,.s4 .info{font-size:15px}
+.s5 h1,.s5 h2,.s5 .hh a,.s5 #mesajbox,.s5 .footer *,.s5 .info{font-size:16px}
+.s6 h1,.s6 .hh h2,.s6 .hh a,.s6 #mesajbox,.s6 .footer *,.s6 .info{font-size:18px}
+
+
+.hh span{padding:0px 6px}
+.hh #sort{margin:2px}
+.hh #fbl{margin:3px}
+.hh a{float:right}
+@-moz-document url-prefix() { 
+    .hh a{display:none;}
+}
+@media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {
+    .hh a{display:none;}
+}
+#mesajbox{display:block;padding:0 2%}
+a.ajutoryt{display:inline-block!important;}
+
+
+
+#st-1 .st-btn > svg {
+    top: 4px!important;
+}
+.st-btn{margin:0 3px;padding:0 5px!important;line-height:24px!important;height:24px!important}
+#frame{   float:left; position: relative;width: 96%;margin:1% 2%;
+    overflow: hidden;border-bottom:solid 2px}
+
+.full{width:100%;float:left}
+.half{text-align:justify;overflow:hidden;width:48%;margin:1%;float:left;min-width:300px;margin-bottom:0}
+.oleft{margin:1% 2% 1% 0}
+.oright{margin:1% 0 1% 2%}
+.hh h2{padding:0 5px;float:left}
+
+
+.dn{display:none!important}
+.icon,.stergef{
+	background: #73ffff;padding:5px;border-radius:10%;
+}
+.icon:hover {
+	background-color: #aaf!important;
+}
+.marimeC button,.sort button {
+	border-radius:10%;padding:5px;margin:0 4px;border:0;
+}
+#mctext {
+	line-height:16px;font-size:16px
+}
+#mc40 {
+	line-height:20px;font-size:20px
+}
+#mc64 {
+	line-height:24px;font-size:22px
+}
+#mc80 {
+	line-height:28px;font-size:24px
+}
+#mc128,.sort button {
+	line-height:32px;font-size:26px
+}
+.marimeC .activ,.sort .activ{
+	background: #73ffff
+}
+.icon{background:#f1f1f9}
+
+
+
+
+
+
+
+
+#wrapper,#main{width:100%;margin:0 auto;overflow:hidden;position:relative}
+#wrapper{border-radius:8px 8px 0 0;margin-top:5px}
+.s1 #wrapper,.s2 #wrapper,.s3 #wrapper,.s4 #wrapper{width:98%;margin:5px 1%}
+
+.s5 #wrapper{width:1000px}
+.s6 #wrapper{width:1260px}
+.s7 #wrapper{width:1340px}
+.s8 #wrapper{width:1420px}
+.s9 #wrapper{width:1500px}
+.s10 #wrapper{width:3000px}
+
+
+#header{height:48px;border-radius: 8px 8px 0 0;overflow:hidden}
+#header a, #header img{cursor:pointer}
+#header img,.menu span{float:left;}
+#header .ceas{float:right;font-weight:bold}
+
+.s1 #header,.s2 #header{height:44px}
+
+.menu .text{padding:0 2px}
+.menu{float:left;display:inline-block;overflow:hidden;padding:0 5px;color:#1a0066;text-align:center;background:none!important;border-left:solid 1px}
+.menu{line-height:38px;height:38px;margin:5px 3px;font-size:16px}
+
+.menu{margin:3px;font-size:16px}
+.menu .ico{display:inline;width:32px;height:32px;background-image:url(//stvron.com/img/menu-v738.png);margin-top:4px}
+
+
+
+.s1 .menu .text,.s2 .menu .text,.s1 .ceas,.s2 .ceas,.s3 .ceas{display:none}
+.s5 .ghidtv,.s6 .ghidtv,.s7 .ghidtv,.s8 .ghidtv,.s9 .ghidtv{display:none}
+.s5 .top,.s6 .top,.s7 .top,.s8 .top,.s9 .top{display:none}
+
+.s1 .menu,.s2 .menu{padding:0 2px}
+.s3 .menu,.s4 .menu{padding:0 3px}
+.s5 .menu{padding:0 3px;font-size:22px}
+.qaa b{font-size:22px;display:block;padding:6px;cursor:pointer}
+.qaa *{text-align:center!important;font-size:16px}
+.s1 .qaa,.s2 .qaa,.s3 .qaa,.s4 .qaa,.s5 .qaa{padding:0 3px;font-size:20px}
+.qaa iframe{padding:10px 0;border:0;width:92%}
+.s1 #logo img{display:none}
+.s2 #logo img,.s3 #logo img{height:38px}
+
+.s1 .pc{display:inline-block!important}
+.s6 .menu,.s7 .menu,.s8 .menu,.s9 .menu{font-size:24px}
+.s8 .menu,.s9 .menu{font-size:26px}
+
+
+
+
+.ico.descarca{background-position:0px 0px}
+.ico.ajutori{background-position:-32px 0px}
+.ico.cautai{background-position:-64px 0px}
+.ico.stiri{background-position:-96px 0px}
+.ico.meciurii{background-position:-128px 0px}
+.ico.radioi{background-position:-160px 0px}
+.ico.mobil{background-position:-192px 0px}
+.ico.culori{background-position:-224px 0px}
+.ico.tvico{background-position:-256px 0px}
+.ico.chat{background-position:-288px 0px}
+.ico.ghid{background-position:-320px 0px}
+.top{right:5px;top:50px;position:fixed}
+
+#cautar{
+background:#eeeeee;color:#777;  border: 1px solid #aaa; 
+margin:0 5px;border: 0;text-align:center;width:200px;height:24px;padding:0 5px;display:inline-block
+}
+#search .input{
+background:#eeeeee;color:#777;  border-radius: 8px 8px 0 0; 
+margin:5px 0;border: 0;text-align:center;width:200px;padding:0 5px;height:32px!important;font-size:20px;float: left;
+}
+
+#search{width:48px;float:right;padding-right:3px}
+#search .rezultate{
+background:#eeeeee; width:300px;position:absolute;top:48px;z-index: 99999;right: 0;
+}
+#search a{
+border-top:1px solid #8e858f;overflow:hidden;display:inline-block;width:300px
+}
+#search a *{
+margin:2px!important;float:left;line-height:30px;font-size:20px
+}
+
+
+
+
+
+.culoare{float:right!important}
+
+#cauta{width:240px;z-index:1002;border:0}
+#culoare{z-index:1001;background:#004030!important}
+#culoare .cul{cursor:pointer;border-radius:42px;display:inline-block}
+.menu .cul{height:32px!important;width:32px}
+.s6 .menu .cul,.s7 .menu .cul,.s8 .menu .cul,.s9 .menu .cul{height:48px!important;width:48px}
+
+
+.menu:hover{background:#73dcff}
+.menu img{float:left;width:auto;height:100%}
+
+#footer{width:100%;font-weight:bold;overflow:hidden}
+.footer{float:left;width:20%;padding:1% 0;min-width:150px}
+.footer *{display:block;padding:5px}
+.copy{width:98%;line-height:32px}
+
+#main{text-align:left}
+
+#left{float:left;overflow:hidden;padding:10px;min-height:500px;position:relative}
+.s1 #left,.s2 #left,.s3 #left,.s4 #left{float:none;display:block}
+.s5 #left{width:660px}
+.s6 #left{width:860px}
+.s7 #left{width:940px}
+.s8 #left{width:960px}
+.s9 #left{width:1040px}
+
+#right{width:100%;margin:0 auto;max-width:500px;text-align:justify;overflow:hidden;position:relative;padding-top:0px!important}
+.s5 #right{float:left;padding:10px;width:300px}
+.s6 #right,.s7 #right{float:left;padding:10px;width:360px}
+.s8 #right,.s9 #right{float:left;padding:10px;width:420px}
+
+.s1 .half,.s2 .half,.s3 .half{width:98%}
+
+
+
+#left #action{float:left;
+overflow:hidden;width:100%;
+}
+.home{
+	text-align:justify
+}
+.updown{margin:0 10px;padding:0 5px;float:left;text-transform:capitalize;line-height:16px;}
+
+
+#right div {float:left;}
+
+#right .rul ul,#right .rul iframe{height:100%;overflow-x:hidden;overflow-y:scroll}
+#right ul{width:100%;padding:0;margin:0;max-height:100%;overflow:auto}
+#right li{list-style:none;}
+#stirile li{padding:5px;}
+#stirile span{background:#eee;padding:2px 5px;}
+#rmenu {float:left;width:100%;text-align:center;padding:0px 0;font-weight:bold}
+#rmenu span,#cc span{background:#eee;padding:0 5px;padding-left:1px;margin:1px;display:inline-block;border-radius:6px 6px 0 0;line-height:28px;font-size:16px}
+#cc span{padding:0 5px!important;font-weight: bold;}
+
+#rmenu span i{padding-right:1px;font-style:normal}
+.s1 #rmenu span,.s5 #rmenu span{padding:0 3px;padding-left:0px;line-height:22px;font-size:12px;margin:1px 0px}
+.s5 #rmenu span{font-size:13px}
+.s6 #rmenu span,.s7 #rmenu span{line-height:24px;font-size:14px}
+#rmenu span:hover{background:#7396ff;cursor:pointer}
+#rmenu span#act{background:#fff}
+
+#right #list{width:100%;top:26px;height:300px;float:left;text-align:justify;overflow:auto}
+#right #list span{padding:0 20%;display:block}
+
+#right #chat{width:100%;position:relative}
+#addcom{text-align:center}
+#addcom textarea,#addcom input{border:1px solid #eee;border-radius:5px;line-height:20px;}
+#addcom textarea{width:90%;margin:4px 0;padding:4px}
+#addcom #ver{width:40px}
+#addcom .nuem{width:40%;margin:0 3%}
+#addcom #submit{margin-left:50px}
+.comr{width:98%;padding:1%;overflow:hidden;float:left;border-bottom:1px solid}
+.comh{line-height:16px;padding:4px 0px}
+.comh,.comt{width:100%;overflow:hidden;float:left;margin:3px 0}
+.comt p{margin:0}
+.flag,.comh span{float:left}
+#right .comdata{font-size:10px;float:right;padding-right:4px}
+
+
+.tv{
+	border-radius:5px;
+	background:#eee;
+	padding:2px;
+	height:48px;
+	margin:5px
+}
+h3{
+	padding:2px;
+	margin:0;
+	text-align:center
+}
+#logo{overflow:hidden;margin:0 2%;display:inline-block;float:left;max-width:20%}
+#logo img{max-height:48px}
+
+.st{padding:3px 8px 8px 3px;overflow:hidden;margin:1%;float:left}
+.st span{padding:0 5px;line-height:16px}
+.st img{padding:5px 8px 0 5px;float:left;width:auto;border-radius:10px}
+#stire{margin:2%;float:left;overflow:hidden;width:96%;font-size:28px}
+.s1 #stire{font-size:12px}
+.s2 #stire{font-size:14px}
+.s3 #stire{font-size:18px}
+.s4 #stire{font-size:22px}
+.s5 #stire{font-size:18px}
+.s6 #stire{font-size:22px}
+.s7 #stire{font-size:24px}
+.s8 #stire{font-size:26px}
+.s9 #stire{font-size:28px}
+
+#stire img{margin:0 4%;float:left;width:46%}
+#stire p{display:inline}
+#stire span{float:left;width:60%;margin:2% 20%;}
+
+.s1 .st{height:65px;width:98%;font-size:12px}
+.s2 .st{height:69px;width:98%}
+.s3 .st{height:73px;width:46%}
+.s4 .st{height:77px;width:46%}
+.s5 .st{height:77px;width:46%}
+.s6 .st{height:81px;width:46%}
+.s7 .st{height:85px;width:46%}
+.s8 .st{height:85px;width:30%}
+.s9 .st{height:85px;width:30%}
+
+.s1 .st img{height:60px;max-width:90px}
+.s2 .st img{height:64px;max-width:95px}
+.s3 .st img{height:68px;max-width:100px}
+.s4 .st img{height:72px;max-width:106px}
+.s5 .st img{height:72px;max-width:106px}
+.s6 .st img{height:76px;max-width:112px}
+.s7 .st img{height:80px;max-width:120px}
+.s8 .st img{height:80px;max-width:120px}
+.s9 .st img{height:80px;max-width:120px}
+
+
+
+.ajutor{width:100%;max-width:400px;margin:15px;overflow:hidden;float:left}
+.ajutor.mare{width:100%;max-width:800px;margin:15px;overflow:hidden;float:left}
+.ajutor iframe,.ajutor embed{border:0;width:100%;height:280px;margin:0;float:left}
+.ajutor.mare iframe,.ajutor.mare embed{height:600px}
+
+.half .canale{height:200px;overflow:auto;width:100%;}
+.full{text-align:justify;padding:6px 0;width:100%}
+
+.logo{width:40%;margin:0 2%;float:left}
+.info{padding:2%;float:left}
+.info h2{display:inline}
+.hcat *{float:left}
+
+#program{width:100%}
+#program *{line-height:20px;font-size:16px;display:inline-block;}
+#program .program,#program .now,#program .next{font-weight:bold;text-align:left}
+#program strong{margin:0 5px;background:#cccccc;color:#333;padding:2px 10px;cursor:pointer;border-radius:16px}
+#program strong:hover{background:#ffbfdf}
+#program .activ{background:#d9a300}
+#program span,.pa span{border-radius:16px;color:#fff}
+#program ul{margin:0;padding:5px 0;height:100px;text-align:justify;overflow:auto;width:100%}
+#program li{font-size:14px;padding:0px;margin:2px;list-style:none;display:inline-block;border-radius:16px}
+#program li:hover{background:#4c79ff}
+#program li *,#program .now *,#program .next *,.pa *{padding:0 3px;margin:0 3px;border-radius:16px}
+#program li span,.pa span,.pa div{text-align:center;border-radius:16px;color:#fff}
+#program #now,#program .now{color:#8c0046;font-weight:bold}
+#program li#next,#program .next{color:#004010;font-weight:bold}
+#c0 #program li#next,#c0 #program .next{color:#38a152}
+#program li div,#program .now div,#program .next div,.pa div{text-align:center;padding-right:5px;}
+.now,.next{display:inline!important;}
+
+
+.rel,.iap,.i12,.i15,.i18{border-radius:16px!important;line-height:18px!important;width:18px!important;font-size:11px!important;float:right;padding:0!important;font-weight:normal!important;text-align:center!important}
+.rel{background:red}
+.iap,.ap{background:green;color:white!important}
+.i12{background:orange}
+.i15{background:red;color:yellow!important}
+.i18{background:black;color:red!important}
+
+.pa{padding:2px 0;text-align:left}
+.pa:hover{font-weight:bold}
+.pa *{margin:0 3px}
+.pa div{color:#4d4cff!important}
+span.goto{float:left;cursor:pointer;padding-left:0}
+
+#meci{text-align:center;overflow:hidden;padding:5px;border-radius:16px}
+#meci .echipa{background:24px;border-radius:16px}
+#meci .echipa,#meci .detalii{width:30%;float:left;margin:0;}
+#meci .detalii{width:40%;float:left}
+#meci span{}
+#meci .echipa img{height:100%;width:auto;max-width:100%;}
+
+.echipa-img{width:100%;text-align:center;float:left;height:180px}
+.s1 .echipa-img{height:60px}
+.s2 .echipa-img{height:80px}
+.s3 .echipa-img{height:100px}
+.s4 .echipa-img{height:140px}
+.s5 .echipa-img{height:120px}
+.s6 .echipa-img{height:140px}
+.s7 .echipa-img{height:180px}
+.s8 .echipa-img{height:220px}
+.s9 .echipa-img{height:256px}
+
+.s1 #meci{font-size:10px}
+.s2 #meci{font-size:11px}
+.s3 #meci{font-size:12px}
+.s4 #meci{font-size:14px}
+.s5 #meci{font-size:13px}
+.s6 #meci{font-size:16px}
+.s7 #meci{font-size:18px}
+.s8 #meci{font-size:20px}
+.s9 #meci{font-size:24px}
+
+
+#meci .scor{font-size:48px}
+#meci .mnume,.es{float:left;width:100%;}
+.meci,.ci{font-size:20px;background:#f9fffb;line-height:32px;padding:3px 0;border-radius:16px;margin:3px;overflow:hidden;text-align:center}
+.meci a,.meci .es{float:left;display:inline-block;line-height:32px;height:32px;width:74%}
+.meci a.tvmeci{text-align:left;width:26%}
+.meci span.echipa{overflow:hidden;float:right;height:32px;width:32px;margin:0 5px}
+.meci span.e1,.meci span.e2{float:left;display:inline-block;overflow:hidden;width:44%}
+.meci span.e1{text-align:right}
+.meci span.e2{text-align:left}
+.meci span.e2 *,.tvmeci strong{float:left}
+.meci.liga{display:inline-block}
+.data{text-align:center;}
+.tvmeci img{float:left;padding:0 3px}
+.meci .orascor{text-align:center;float:left;background:#555555;width:12%;border-radius:16px}
+
+.s1 .meci a,.s1 .meci,.s2 .meci a,.s2 .meci{line-height:16px;height:16px}
+.s3 .meci a,.s3 .meci,.s4 .meci a,.s4 .meci,.s5 .meci a,.s5 .meci{line-height:24px;height:24px}
+.s1 .meci span.echipa,.s2 .meci span.echipa,.s1 .meci img,.s2 .meci img{margin:0px;margin-top:-8px;-webkit-transform:scale(0.5);-ms-transform:scale(0.5);transform:scale(0.5);}
+.s3 .meci span.echipa,.s4 .meci span.echipa,.s5 .meci span.echipa,.s3 .meci img,.s4 .meci img,.s5 .meci img{margin:0px;margin-top:-4px;-webkit-transform:scale(0.76);-ms-transform:scale(0.76);transform:scale(0.76);}
+.s1 .meci strong,.s2 .tvmeci strong{display:none}
+.s1 .meci span.e1,.s1 .meci span.e2{width:38%}
+.s1 .meci .orascor{width:24%}
+.s2 .meci a.tvmeci{width:6%}
+.s2 .meci a{width:86%}
+
+.s1 .meci a,.s1 .meci,.s1 .ci{font-size:10px}
+.s2 .meci a,.s2 .meci,.s2 .ci{font-size:11px}
+.s3 .meci a,.s3 .meci,.s3 .ci{font-size:14px}
+.s4 .meci a,.s4 .meci,.s4 .ci{font-size:15px}
+.s5 .meci a,.s5 .meci,.s5 .ci{font-size:14px}
+
+.clasament{overflow:hidden;width:96%;margin-left:2%}
+.ci *{float:left!important}
+.ci div{width:6%}
+.ci div.ec{width:46%}
+
+
+
+
+
+
+
+
+
+
+#right #meciuri,#right #coment{overflow:hidden;height:auto!important;width:100%}
+#right #meciuri ul,#right #coment ul{overflow:hidden}
+
+.rmeci{width:420px;font-size:16px;line-height:20px;float:left;margin:2px auto;padding:2px 0;text-align:center;border-bottom:solid 1px #eee}
+.rmeci *{font-weight:normal;line-height:20px;height:20px;float:left}
+.rmeci .e1 *,.rmeci .tvmeci{float:right}
+.rmeci .echipe{width:394px}
+
+.rmeci .echipe .echipam{width:16px;height:16px;margin:0 2px}
+.s6 .rmeci .echipam,.s7 .rmeci .echipam{margin:0 3px;margin-top:1px;-webkit-transform:scale(1.1);-ms-transform:scale(1.1);transform:scale(1.1);}
+.s2 .rmeci .echipam,.s3 .rmeci .echipam,.s4 .rmeci .echipam,.s8 .rmeci .echipam,.s9 .rmeci .echipam{margin:0 5px;margin-top:2px;-webkit-transform:scale(1.3);-ms-transform:scale(1.3);transform:scale(1.3);}
+
+
+.rmeci .tvmeci{cursor:pointer;width:20px;height:20px}
+.rmeci .e1,.rmeci .e2{width:170px}
+.rmeci .orascor{font-size:14px;width:48px;color:black;border-radius:6px}
+
+.s1 .rmeci,.s5 .rmeci{width:300px;}
+.s1 .rmeci,.s1 .rmeci *,.s5 .rmeci,.s5 .rmeci *{font-size:13px;line-height:18px;height:18px}
+.s1 .rmeci .echipe,.s5 .rmeci .echipe{width:280px}
+.s1 .rmeci .e1,.s1 .rmeci .e2,.s5 .rmeci .e1,.s5 .rmeci .e2{width:120px}
+.s1 .rmeci .orascor,.s5 .rmeci .orascor{font-size:11px;width:32px}
+
+.s6 .rmeci,.s7 .rmeci{width:360px}
+.s6 .rmeci,.s6 .rmeci *,.s7 .rmeci,.s7 .rmeci *{font-size:14px;line-height:18px;height:18px}
+.s6 .rmeci .echipe,.s7 .rmeci .echipe{width:340px}
+.s6 .rmeci .e1,.s6 .rmeci .e2,.s7 .rmeci .e1,.s7 .rmeci .e2{width:140px}
+.s6 .rmeci .orascor,.s7 .rmeci .orascor{font-size:12px;width:44px}
+
+
+
+#chat iframe{display:block;width:100%}
+.inchide{width:16px!important;background-position:-4px 0px}
+#radio{text-align:center;width:100%;font-weight:bold;font-size:16px;position:relative;padding:0 2px}
+#radio .inchide,#chat .inchide{position:absolute;top:4px}
+#chat .inchide{right:-8px;top:-4px}
+#radio img{float:left;cursor:pointer}
+#radio .center{float:none;display:inline-block;overflow:hidden;line-height:25px;height:25px;}
+#radio .alege span{padding:0 5px}
+#radio span{cursor:pointer}
+#radio span:hover{text-decoration:underline}
+.frecvente span{display:inline-block;padding:2px 1%;min-width:30%}
+.istorie{margin:2px 1%!important}
+
+.radio{vertical-align:top;font-size:16px;line-height:32px;display:inline-block;margin:2px 0;padding:0}
+.radio li{list-style:none;margin:0 10px;float:left}
+.radio li.titlu{line-height:200%}
+.radiologo{background:#ddd}
+
+/* fundal */
+body,#ajutor{color:#ffffff;background:#000000}
+body#c1,#c1 #ajutor{color:#002040;background:#663300}
+body#c2,#c2 #ajutor{color:#002040;background:#004020}
+body#c3,#c3 #ajutor{color:#002040;background:#6060fb}
+body#c4,#c4 #ajutor{color:#002040;background:#350e34}
+body#c5,#c5 #ajutor{color:#002040;background:#000000}
+body#c6,#c6 #ajutor{color:#002040;background:#8247d3}
+body#c7,#c7 #ajutor{color:#002040;background:#a6aabc}
+body#c8,#c8 #ajutor{color:#002040;background:#888888}
+body#c9,#c9 #ajutor{color:#002040;background:#a96b34}
+body#c10,#c10 #ajutor{color:#633f1f;background:#955113}
+body#c11,#c11 #ajutor{color:#821c33;background:#950f31}
+
+
+/* sus */
+#popuph,#footer,#mare,#gdpr{background:#242415;}
+
+
+
+
+#c1 #popuph,#c1 #header,#c1 #footer,#c1 #ajutor,#c1 #gdpr{background:#f49242}
+#c2 #popuph,#c2 #header,#c2 #footer,#c2 #ajutor,#c2 #gdpr{background:#66cd12}
+#c3 #popuph,#c3 #header,#c3 #footer,#c3 #ajutor,#c3 #gdpr{background:#439de7}
+#c4 #popuph,#c4 #header,#c4 #footer,#c4 #ajutor,#c4 #gdpr{background:#dc463f}
+#c5 #popuph,#c5 #header,#c5 #footer,#c5 #ajutor,#c5 #gdpr{background:#777777}
+#c6 #popuph,#c6 #header,#c6 #footer,#c6 #ajutor,#c6 #gdpr{background:#bc79ff}
+#c7 #popuph,#c7 #header,#c7 #footer,#c7 #ajutor,#c7 #gdpr{background:#Bcbfc4}
+#c8 #popuph,#c8 #header,#c8 #footer,#c8 #ajutor,#c8 #gdpr{background:#c6e2ff}
+#c9 #popuph,#c9 #header,#c9 #footer,#c9 #ajutor,#c9 #gdpr{background:#dfc506}
+#c10 #popuph,#c10 #header,#c10 #footer,#c10 #ajutor,#c10 #gdpr{background:#cd701b}
+#c11 #popuph,#c11 #header,#c11 #footer,#c11 #ajutor,#c11 #gdpr{background:#e789a5}
+
+
+
+
+
+#header{background:linear-gradient(180deg, #444444 5%, #333333 60%, #000000 95%)}
+#c1 #header{background:linear-gradient(180deg, #ca833c 5%, #eaaf3e 60%, #db8f4b 95%)}
+#c2 #header{background:linear-gradient(180deg, #18d074 5%, #4d931e 60%, #256413 95%)}
+#c3 #header{background:linear-gradient(180deg, #2215b9 5%, #6060fb 60%, #544ace 95%)}
+#c4 #header{background:linear-gradient(180deg, #a24926 5%, #b37171 60%, #914e4e 95%)}
+#c5 #header{background:linear-gradient(180deg, #aeadba 5%, #847a80 60%, #aeadba 95%)}
+#c6 #header{background:linear-gradient(180deg, #ac34d9 5%, #6c258c 60%, #a45fc4 95%)}
+#c7 #header{background:linear-gradient(180deg, #d5d5dd 5%, #c4c3c3 60%, #c3c2c8 95%)}
+#c8 #header{background:linear-gradient(180deg, #c8c7d2 5%, #ffffff 60%, #eeeef2 95%)}
+#c9 #header{background:linear-gradient(180deg, #d2a77f 5%, #b38838 60%, #e1c177 95%)}
+#c10 #header{background:linear-gradient(180deg, #ce8460 5%, #b96e29 60%, #d58555 95%)}
+#c11 #header{background:linear-gradient(180deg, #d95375 5%, #f099ab 60%, #df99ab 95%)}
+
+
+
+
+
+
+/* conținut stânga */
+#main,#rmenu span#act,#sc0{background:#222222!important}
+#c1 #main,#c1 #rmenu span#act,#sc1{background:#f4b342!important}
+#c2 #main,#c2 #rmenu span#act,#sc2{background:#add97d!important}
+#c3 #main,#c3 #rmenu span#act,#sc3{background:#7aa5fc!important}
+#c4 #main,#c4 #rmenu span#act,#sc4{background:#D89999!important}
+#c5 #main,#c5 #rmenu span#act,#sc5{background:#888888!important}
+#c6 #main,#c6 #rmenu span#act,#sc6{background:#E28eff!important}
+#c7 #main,#c7 #rmenu span#act,#sc7{background:#dbdddf!important}
+#c8 #main,#c8 #rmenu span#act,#sc8{background:#ffffff!important}
+#c9 #main,#c9 #rmenu span#act,#sc9{background:#e4dd83!important}
+#c10 #main,#c10 #rmenu span#act,#sc10{background:#c89573!important}
+#c11 #main,#c11 #rmenu span#act,#sc11{background:#fcd6de!important}
+
+/* linie meci dreapta, ca fundal sus */
+.rmeci,.full,.half,#frame,.comr{border-color:#111111}
+#c1 .rmeci,#c1 .full,#c1 .half,#c1 #frame,#c1 .comr{border-color:#f49242}
+#c2 .rmeci,#c2 .full,#c2 .half,#c2 #frame,#c2 .comr{border-color:#66cd12}
+#c3 .rmeci,#c3 .full,#c3 .half,#c3 #frame,#c3 .comr{border-color:#439de7}
+#c4 .rmeci,#c4 .full,#c4 .half,#c4 #frame,#c4 .comr{border-color:#e24949}
+#c5 .rmeci,#c5 .full,#c5 .half,#c5 #frame,#c5 .comr{border-color:#777777}
+#c6 .rmeci,#c6 .full,#c6 .half,#c6 #frame,#c6 .comr{border-color:#bc79ff}
+#c7 .rmeci,#c7 .full,#c7 .half,#c7 #frame,#c7 .comr{border-color:#Bcbfc4}
+#c8 .rmeci,#c8 .full,#c8 .half,#c8 #frame,#c8 .comr{border-color:#c6e2ff}
+#c9 .rmeci,#c9 .full,#c9 .half,#c9 #frame,#c9 .comr{border-color:#dfc506}
+#c10 .rmeci,#c10 .full,#c10 .half,#c10 #frame,#c10 .comr{border-color:#cd701b}
+#c11 .rmeci,#c11 .full,#c11 .half,#c11 #frame,#c11 .comr{border-color:#e37798}
+
+/* linie meci dreapta, ca fundal sus */
+.rmeci:hover,#program li:hover{background:#555555}
+#c0 .rmeci:hover,#c0 .pa:nth-child(even),#c0 #stirileh li:nth-child(even),#c0 #program li:hover{background:#444444}
+#c1 .rmeci:hover,#c1 .pa:nth-child(even),#c1 #stirileh li:nth-child(even),#c1 #program li:hover{background:#f49242}
+#c2 .rmeci:hover,#c2 .pa:nth-child(even),#c2 #stirileh li:nth-child(even),#c2 #program li:hover{background:#29d50b}
+#c3 .rmeci:hover,#c3 .pa:nth-child(even),#c3 #stirileh li:nth-child(even),#c3 #program li:hover{background:#5a8ff9}
+#c4 .rmeci:hover,#c4 .pa:nth-child(even),#c4 #stirileh li:nth-child(even),#c4 #program li:hover{background:#e24949}
+#c5 .rmeci:hover,#c5 .pa:nth-child(even),#c5 #stirileh li:nth-child(even),#c5 #program li:hover{background:#777777}
+#c6 .rmeci:hover,#c6 .pa:nth-child(even),#c6 #stirileh li:nth-child(even),#c6 #program li:hover{background:#d24cff}
+#c7 .rmeci:hover,#c7 .pa:nth-child(even),#c7 #stirileh li:nth-child(even),#c7 #program li:hover{background:#Bcbfc4}
+#c8 .rmeci:hover,#c8 .pa:nth-child(even),#c8 #stirileh li:nth-child(even),#c8 #program li:hover{background:#c6e2ff}
+#c9 .rmeci:hover,#c9 .pa:nth-child(even),#c9 #stirileh li:nth-child(even),#c9 #program li:hover{background:#dfc506}
+#c10 .rmeci:hover,#c10 .pa:nth-child(even),#c10 #stirileh li:nth-child(even),#c10 #program li:hover{background:#cd701b}
+#c11 .rmeci:hover,#c11 .pa:nth-child(even),#c11 #stirileh li:nth-child(even),#c11 #program li:hover{background:#e37798}
+
+/* culoare link-uri */
+a,.goto,.a{color:#72a578}
+#c1 a,#c1 .goto,#c1 .a,#c1 #mesajbox,#c1 .ytid h2{color:#d90000}
+#c2 a,#c2 .goto,#c2 .a,#c2 #mesajbox,#c2 .ytid h2{color:#004020}
+#c3 a,#c3 .goto,#c3 .a,#c3 #mesajbox,#c3 .ytid h2{color:#eeeeee}
+#c4 a,#c4 .goto,#c4 .a,#c4 #mesajbox,#c4 .ytid h2{color:#980c27}
+#c5 a,#c5 .goto,#c5 .a,#c5 #mesajbox,#c5 .ytid h2{color:#000000}
+#c6 a,#c6 .goto,#c6 .a,#c6 #mesajbox,#c6 .ytid h2{color:#46008c}
+#c7 a,#c7 .goto,#c7 .a,#c7 #mesajbox,#c7 .ytid h2{color:#222222}
+#c8 a,#c8 .goto,#c8 .a,#c8 #mesajbox,#c8 .ytid h2{color:#1047a3}
+#c9 a,#c9 .goto,#c9 .a,#c9 #mesajbox,#c9 .ytid h2{color:#b95c00}
+#c10 a,#c10 .goto,#c10 .a,#c10 #mesajbox,#c10 .ytid h2{color:#66001a}
+#c11 a,#c11 .goto,#c11 .a,#c11 #mesajbox,#c11 .ytid h2{color:#660033}
+
+a:hover,.goto:hover,.a:hover,.smb .help,.ytid h2:hover{color:#86b300}
+#c1 a:hover,#c1 .goto:hover,#c1 .a:hover,#c1 .smb .help,#c1 .ytid h2:hover{color:#b32d00}
+#c2 a:hover,#c2 .goto:hover,#c2 .a:hover,#c2 .smb .help,#c2 .ytid h2:hover{color:#00664c}
+#c3 a:hover,#c3 .goto:hover,#c3 .a:hover,#c3 .smb .help,#c3 .ytid h2:hover{color:#d90000}
+#c4 a:hover,#c4 .goto:hover,#c4 .a:hover,#c4 .smb .help,#c4 .ytid h2:hover{color:#d90000}
+#c5 a:hover,#c5 .goto:hover,#c5 .a:hover,#c5 .smb .help,#c5 .ytid h2:hover{color:#004000}
+#c6 a:hover,#c6 .goto:hover,#c6 .a:hover,#c6 .smb .help,#c6 .ytid h2:hover{color:#6c00d9}
+#c7 a:hover,#c7 .goto:hover,#c7 .a:hover,#c7 .smb .help,#c7 .ytid h2:hover{color:#555555}
+#c8 a:hover,#c8 .goto:hover,#c8 .a:hover,#c8 .smb .help,#c8 .ytid h2:hover{color:#0070df}
+#c9 a:hover,#c9 .goto:hover,#c9 .a:hover,#c9 .smb .help,#c9 .ytid h2:hover{color:#d96c00}
+#c10 a:hover,#c10 .goto:hover,#c10 .a:hover,#c10 .smb .help,#c10 .ytid h2:hover{color:#b3002d}
+#c11 a:hover,#c11 .goto:hover,#c11 .a:hover,#c11 .smb .help,#c11 .ytid h2:hover{color:#8c0046}
+
+
+
+/* butoane meniu/dreapta */
+.menu,#rmenu span,#cc span,.radio,#left .meci,.smb,.comh{background:#353526;color:#cccccc;border-color:#54575b}
+#c1 .menu,#c1 #rmenu span,#c1 #cc span,#c1 #program strong,#c1 .radio,#c1 #left .meci,#c1 #p .l,#c1 .smb,#c1 .comh{background:#ffb973;color:#0e0c28e0;border-color:#cc7b34}
+#c2 .menu,#c2 #rmenu span,#c2 #cc span,#c2 #program strong,#c2 .radio,#c2 #left .meci,#c2 #p .l,#c2 .smb,#c2 .comh{background:#00aa00;color:#cfffbf;border-color:#6eb77a}
+#c3 .menu,#c3 #rmenu span,#c3 #cc span,#c3 #program strong,#c3 .radio,#c3 #left .meci,#c3 #p .l,#c3 .smb,#c3 .comh{background:#4ca6ff;color:#ffffff;border-color:#54575b}
+#c4 .menu,#c4 #rmenu span,#c4 #cc span,#c4 #program strong,#c4 .radio,#c4 #left .meci,#c4 #p .l,#c4 .smb,#c4 .comh{background:#ea6f87;color:#dddddd;border-color:#95695c}
+#c5 .menu,#c5 #rmenu span,#c5 #cc span,#c5 #program strong,#c5 .radio,#c5 #left .meci,#c5 #p .l,#c5 .smb,#c5 .comh{background:#aaaaaa;color:#ffffff;border-color:#777777}
+#c6 .menu,#c6 #rmenu span,#c6 #cc span,#c6 #program strong,#c6 .radio,#c6 #left .meci,#c6 #p .l,#c6 .smb,#c6 .comh{background:#a64cff;color:#eeeeee;border-color:#9631b3}
+#c7 .menu,#c7 #rmenu span,#c7 #cc span,#c7 #program strong,#c7 .radio,#c7 #left .meci,#c7 #p .l,#c7 .smb,#c7 .comh{background:#aaaaaa;color:#333333;border-color:#acb2bb;}
+#c8 .menu,#c8 #rmenu span,#c8 #cc span,#c8 #program strong,#c8 .radio,#c8 #left .meci,#c8 #p .l,#c8 .smb,#c8 .comh{background:#a0c8fe;color:#525295;border-color:#bac1ca}
+#c9 .menu,#c9 #rmenu span,#c9 #cc span,#c9 #program strong,#c9 .radio,#c9 #left .meci,#c9 #p .l,#c9 .smb,#c9 .comh{background:#fbe862;color:#53332c;border-color:#d58b4a}
+#c10 .menu,#c10 #rmenu span,#c10 #cc span,#c10 #program strong,#c10 .radio,#c10 #left .meci,#c10 #p .l,#c10 .smb,#c10 .comh{background:#bb5e00;color:#f9e2cb;border-color:#dd9774}
+#c11 .menu,#c11 #rmenu span,#c11 #cc span,#c11 #program strong,#c11 .radio,#c11 #left .meci,#c11 #p .l,#c11 .smb,#c11 .comh{background:#e0678b;color:#75253b;border-color:#d22d2d}
+
+#c1 .menu,#c2 .menu,#c3 .menu,#c4 .menu,#c5 .menu,#c6 .menu,#c7 .menu,#c8 .menu,#c9 .menu,#c10 .menu,#c11 .menu{background:none}
+
+.menu:hover,.menu.act,#cc .act,#rmenu span:hover,#cc span:hover,#left .meci:hover,.st:hover,#left .data,.orascor{background:#868695;color:#dcff73;border-color:#54575b;cursor:pointer}
+#c1 .menu:hover,#c1 .menu.act,#c1 #cc .act,#c1 #rmenu span:hover,#c1 #cc span:hover,#c1 #program strong:hover,#c1 #left .meci:hover,#c1 #p .l:hover,#c1 .st:hover,#c1 #left .data,#c1 .orascor,#c1 .smb:hover{background:#f48642;color:#ffb973;border-color:#54575b}
+#c2 .menu:hover,#c2 .menu.act,#c2 #cc .act,#c2 #rmenu span:hover,#c2 #cc span:hover,#c1 #program strong:hover,#c2 #left .meci:hover,#c2 #p .l:hover,#c2 .st:hover,#c2 #left .data,#c2 .orascor{background:#068210;color:#3def4f;border-color:#54575b}
+#c3 .menu:hover,#c3 .menu.act,#c3 #cc .act,#c3 #rmenu span:hover,#c3 #cc span:hover,#c3 #program strong:hover,#c3 #left .meci:hover,#c3 #p .l:hover,#c3 .st:hover,#c3 #left .data,#c3 .orascor{background:#6b6ff8;color:#dfbfff;border-color:#54575b}
+#c4 .menu:hover,#c4 .menu.act,#c4 #cc .act,#c4 #rmenu span:hover,#c4 #cc span:hover,#c4 #program strong:hover,#c4 #left .meci:hover,#c4 #p .l:hover,#c4 .st:hover,#c4 #left .data,#c4 .orascor{background:#d7608f;color:#ffb973;border-color:#54575b}
+#c5 .menu:hover,#c5 .menu.act,#c5 #cc .act,#c5 #rmenu span:hover,#c5 #cc span:hover,#c5 #program strong:hover,#c5 #left .meci:hover,#c5 #p .l:hover,#c5 .st:hover,#c5 #left .data,#c5 .orascor{background:#414141;color:#dddddd;border-color:#54575b}
+#c6 .menu:hover,#c6 .menu.act,#c6 #cc .act,#c6 #rmenu span:hover,#c6 #cc span:hover,#c6 #program strong:hover,#c6 #left .meci:hover,#c6 #p .l:hover,#c6 .st:hover,#c6 #left .data,#c6 .orascor{background:#6c00d9;color:#dddddd;border-color:#54575b}
+#c7 .menu:hover,#c7 .menu.act,#c7 #cc .act,#c7 #rmenu span:hover,#c7 #cc span:hover,#c7 #program strong:hover,#c7 #left .meci:hover,#c7 #p .l:hover,#c7 .st:hover,#c7 #left .data,#c7 .orascor{background:#939393;color:#ffffff;border-color:#54575b}
+#c8 .menu:hover,#c8 .menu.act,#c8 #cc .act,#c8 #rmenu span:hover,#c8 #cc span:hover,#c8 #program strong:hover,#c8 #left .meci:hover,#c8 #p .l:hover,#c8 .st:hover,#c8 #left .data,#c8 .orascor{background:#1476a5;color:#5ed7ff;border-color:#54575b}
+#c9 .menu:hover,#c9 .menu.act,#c9 #cc .act,#c9 #rmenu span:hover,#c9 #cc span:hover,#c9 #program strong:hover,#c9 #left .meci:hover,#c9 #p .l:hover,#c9 .st:hover,#c9 #left .data,#c9 .orascor{background:#f3c243;color:#663300;border-color:#54575b}
+#c10 .menu:hover,#c10 .menu.act,#c10 #cc .act,#c10 #rmenu span:hover,#c10 #cc span:hover,#c10 #program strong:hover,#c10 #left .meci:hover,#c10 #p .l:hover,#c10 .st:hover,#c10 #left .data,#c10 .orascor{background:#ffb973;color:#bb5e00;border-color:#54575b}
+#c11 .menu:hover,#c11 .menu.act,#c11 #cc .act,#c11 #rmenu span:hover,#c11 #cc span:hover,#c11 #program strong:hover,#c11 #left .meci:hover,#c11 #p .l:hover,#c11 .st:hover,#c11 #left .data,#c11 .orascor{background:#f89eb0;color:#f7d7e9;border-color:#66001a}
+
+
+#c7 .pa span,#c8 .pa span,#c9 .pa span,#c11 .pa span{color:#777}
+
+.sop a,.players a,.ace a{vertical-align:middle;padding-right:5px}
+.red img{vertical-align:middle;padding-right:5px}
+.red{color:#8c0000!important}
+.green{color:green}
+
+.mobilc{overflow:hidden;font-size:20px;display:inline-block;padding:5px;font-weight:bold}
+#sc{width:100%}
+
+#sc,.svm{line-height:24px;overflow:hidden;font-size:16px;font-weight:bold;cursor:pointer;top:0px!important}
+.svm,.mobilc a{display:inline;float:left}
+#sc div,.svm a{padding:2px 5px;margin:3px 2px;display:inline-block;border:solid 1px #CACAD9;color:#555;background:#eee;border-radius:6px;float:left}
+#sc div:hover,.svm a:hover{background:#ccc;}
+#sc div.act,.svm a.act{background:#999;border:solid 1px #888888;color:#666;margin:0 3px}
+#sc div .iconp{width:24px;height:24px;margin-right:4px;display:inline-block;background-image:url(//stvron.com/img/players-v738.png)}
+.sS .iconp{background-position:-24px 0px}
+.sA .iconp{background-position:-48px 0px}
+.sV .iconp{background-position:-72px 0px}
+.sI .iconp{background-position:-96px 0px}
+.sL .iconp{background-position:-120px 0px}
+.sRDS .iconp{background-position:-144px 0px}
+.sYT .iconp{background-position:-192px 0px}
+.sOK .iconp{background-position:-216px 0px}
+.Mare .iconp{margin:0px!important;width:38px!important;height:28px!important;background-position:-264px 0px}
+.noside .iconp{margin:0px!important;width:28px!important;height:28px!important;background-position:-302px 0px}
+.Mare{padding:0px!important;float:right!important}
+.noside{padding:0px!important;float:right!important}
+.s1 .Mare,.s2 .Mare,.s3 .Mare,.s4 .Mare,.s1 .noside,.s2 .noside,.s3 .noside,.s4 .noside,.s5 .noside,.s5.bmare #mesajbox,.bnoside #mesajbox,.bmare #radio,.bnoside #radio{display:none!important}
+.s5 .ytid .ajutor.mare{max-width: 640px;}
+
+.full.ytid{text-align:center!important}
+.full.ytid .ajutor,.full.ytid #right{float: none!important;
+display: inline-block!important}
+
+
+
+#mare{z-index:1002;position:absolute;width:100%;top:0}
+
+#p{text-align: center;
+padding: 5px 0;
+width: 100%;
+float: left;}
+#p *{padding:5px;margin:1px;border-radius:6px}
+#p .l:hover{background:#b7d89e}
+
+
+
+.smb{display:inline-block;min-width:280px;width:30%;overflow:hidden;font-size:20px;margin:1%;border-radius:12px}
+.smb a{line-height:32px;height:32px;display:block;text-align:center;}
+.smb .help{font-size:16px;line-height:26px;height:26px;display:block;text-align:right;}
+.smb img{float:right;margin:2px 0 0 12px}
+
+button{font-weight:bold;border-radius:3px}
+
+
+
+
+#gdpr span{font-size:24px;margin: 0 5px;cursor:pointer;color:red}
+#gdpr{padding:3px 0;position: fixed;
+z-index: 1004;
+bottom: 0;
+left: 0;
+width: 100%;}
+
+
+
+#mbsc a{margin:5px;min-width:76px;height:38px;background:#eee;display:inline-block;color:#777;border-radius:6px;border:solid 2px #ddd}
+#mbsc a:hover{color:#004030;background:#999;border:solid 2px #999}
+#mbsc img{margin: 3px;float:left;line-height:32px}
+#mbsc span{font-size:24px;float:left;padding:3px 6px 3px 3px}
+#popup{position:absolute;top:10px;margin-left:auto;margin-right:auto;left:0;right:0;max-width:94%;height:94%;Z-INDEX:100000;background:#666;color:#fff}
+#popuph{top:5px;left:-5px;width:100%;height:100%;position:absolute;overflow:hidden;z-index:9999}
+#popuph ul{height:200px;}
+.in{position:absolute;top:-10px;right:-10px;width:32px;margin: 3px;z-index:10000}
+
+.clogo{float:left;}
+.clogo span{border-radius:0!important;}
+#mfavorite{background:#000000;width:100%;bottom:0;right:0;position:fixed;height:60px;z-index:1000}
+#mfavorite a{float:left;margin:0 10px!important}
+.popup.icon{margin:10px}
+.more,.less{text-align:center;display:inline-block;width:124px;line-height:24px;cursor:pointer}
+.more span{background-image:url(//stvron.com/img/more-v738.png);display:inline-block;width:34px;height:16px;margin:4px}
+.less span{background-image:url(//stvron.com/img/less-v738.png);display:inline-block;width:34px;height:16px;margin:4px}
+.dib{display:inline-block!important}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.echipa{background-image:url(//stvron.com/echipe/echipe-v738.png)}
+.l-liga-1{background-position:-0px -0px}
+.l-liga-campionilor{background-position:-32px -0px}
+.l-cupa-ligii{background-position:-64px -0px}
+.l-europa-league{background-position:-96px -0px}
+.l-primera-division{background-position:-128px -0px}
+.l-premier-league{background-position:-160px -0px}
+.l-serie-a{background-position:-192px -0px}
+.l-ligue-1{background-position:-224px -0px}
+.l-bundesliga{background-position:-256px -0px}
+.l-calificari-euro{background-position:-288px -0px}
+.l-cupa-romaniei{background-position:-320px -0px}
+.l-meciuri-amicale{background-position:-352px -0px}
+.l-cupa-africii{background-position:-384px -0px}
+.l-copa-america{background-position:-416px -0px}
+.l-euro-2016{background-position:-448px -0px}
+.l-cupa-spaniei{background-position:-480px -0px}
+.l-cupa-angliei{background-position:-512px -0px}
+.l-cupa-italiei{background-position:-544px -0px}
+.l-cupa-frantei{background-position:-576px -0px}
+.l-cupa-germaniei{background-position:-608px -0px}
+.l-calificari-mondiale{background-position:-640px -0px}
+.l-cupa-mondiala{background-position:-672px -0px}
+.l-liga-2{background-position:-704px -0px}
+.l-liga-natiunilor-divizia-a{background-position:-736px -0px}
+.l-liga-natiunilor-divizia-b{background-position:-768px -0px}
+.l-liga-natiunilor-divizia-c{background-position:-800px -0px}
+.l-liga-natiunilor-divizia-d{background-position:-832px -0px}
+.l-u21{background-position:-864px -0px}
+.l-efl-cup{background-position:-896px -0px}
+.e-Dinamo{background-position:-0px -32px}
+.e-FCSB{background-position:-32px -32px}
+.e-CFRCluj{background-position:-64px -32px}
+.e-Astra{background-position:-96px -32px}
+.e-Petrolul{background-position:-128px -32px}
+.e-Pandurii{background-position:-160px -32px}
+.e-FCBotosani{background-position:-192px -32px}
+.e-Ceahlaul{background-position:-224px -32px}
+.e-Otelul{background-position:-256px -32px}
+.e-uCluj{background-position:-288px -32px}
+.e-Viitorul{background-position:-320px -32px}
+.e-GazMetan{background-position:-352px -32px}
+.e-Concordia{background-position:-384px -32px}
+.e-FCBrasov{background-position:-416px -32px}
+.e-CSMSIasi{background-position:-448px -32px}
+.e-TarguMures{background-position:-480px -32px}
+.e-CSUCraiova{background-position:-512px -32px}
+.e-Rapid{background-position:-544px -32px}
+.e-Almeria{background-position:-576px -32px}
+.e-AtleticoMadrid{background-position:-608px -32px}
+.e-Bilbao{background-position:-640px -32px}
+.e-CeltaVigo{background-position:-672px -32px}
+.e-Cordoba{background-position:-704px -32px}
+.e-Eibar{background-position:-736px -32px}
+.e-Elche{background-position:-768px -32px}
+.e-Espanyol{background-position:-800px -32px}
+.e-FCBarcelona{background-position:-832px -32px}
+.e-FCSevilla{background-position:-864px -32px}
+.e-Getafe{background-position:-896px -32px}
+.e-Granada{background-position:-928px -32px}
+.e-LaCoruna{background-position:-960px -32px}
+.e-Levante{background-position:-992px -32px}
+.e-Malaga{background-position:-1024px -32px}
+.e-RayoVallecano{background-position:-1056px -32px}
+.e-RealMadrid{background-position:-1088px -32px}
+.e-RealSociedad{background-position:-1120px -32px}
+.e-Valencia{background-position:-1152px -32px}
+.e-Villarreal{background-position:-1184px -32px}
+.e-Arsenal{background-position:-1216px -32px}
+.e-AstonVilla{background-position:-1248px -32px}
+.e-Burnley{background-position:-1280px -32px}
+.e-Chelsea{background-position:-1312px -32px}
+.e-CrystalPalace{background-position:-1344px -32px}
+.e-Everton{background-position:-1376px -32px}
+.e-HullCity{background-position:-1408px -32px}
+.e-Leicester{background-position:-1440px -32px}
+.e-Liverpool{background-position:-1472px -32px}
+.e-ManCity{background-position:-1504px -32px}
+.e-ManUnited{background-position:-1536px -32px}
+.e-Newcastle{background-position:-1568px -32px}
+.e-QPR{background-position:-0px -64px}
+.e-Southampton{background-position:-32px -64px}
+.e-Stoke{background-position:-64px -64px}
+.e-Sunderland{background-position:-96px -64px}
+.e-Swansea{background-position:-128px -64px}
+.e-Tottenham{background-position:-160px -64px}
+.e-WestBromwich{background-position:-192px -64px}
+.e-WestHam{background-position:-224px -64px}
+.e-ACMilan{background-position:-256px -64px}
+.e-ASRoma{background-position:-288px -64px}
+.e-Atalanta{background-position:-320px -64px}
+.e-Cagliari{background-position:-352px -64px}
+.e-Cesena{background-position:-384px -64px}
+.e-Chievo{background-position:-416px -64px}
+.e-Empoli{background-position:-448px -64px}
+.e-Fiorentina{background-position:-480px -64px}
+.e-Genoa{background-position:-512px -64px}
+.e-Inter{background-position:-544px -64px}
+.e-Juventus{background-position:-576px -64px}
+.e-Lazio{background-position:-608px -64px}
+.e-Napoli{background-position:-640px -64px}
+.e-Palermo{background-position:-672px -64px}
+.e-Parma{background-position:-704px -64px}
+.e-Sampdoria{background-position:-736px -64px}
+.e-Sassuolo{background-position:-768px -64px}
+.e-Torino{background-position:-800px -64px}
+.e-Udinese{background-position:-832px -64px}
+.e-Verona{background-position:-864px -64px}
+.e-Bordeaux{background-position:-896px -64px}
+.e-Caen{background-position:-928px -64px}
+.e-Evian{background-position:-960px -64px}
+.e-Guingamp{background-position:-992px -64px}
+.e-Lens{background-position:-1024px -64px}
+.e-Lille{background-position:-1056px -64px}
+.e-Lorient{background-position:-1088px -64px}
+.e-Lyon{background-position:-1120px -64px}
+.e-Marseille{background-position:-1152px -64px}
+.e-Metz{background-position:-1184px -64px}
+.e-Montpellier{background-position:-1216px -64px}
+.e-Nantes{background-position:-1248px -64px}
+.e-PSG{background-position:-1280px -64px}
+.e-Reims{background-position:-1312px -64px}
+.e-Rennes{background-position:-1344px -64px}
+.e-SaintEtienne{background-position:-1376px -64px}
+.e-Monaco{background-position:-1408px -64px}
+.e-Toulouse{background-position:-1440px -64px}
+.e-Nice{background-position:-1472px -64px}
+.e-Bastia{background-position:-1504px -64px}
+.e-Augsburg{background-position:-1536px -64px}
+.e-Bayern{background-position:-1568px -64px}
+.e-Bremen{background-position:-0px -96px}
+.e-Dortmund{background-position:-32px -96px}
+.e-Frankfurt{background-position:-64px -96px}
+.e-Freiburg{background-position:-96px -96px}
+.e-Hamburg{background-position:-128px -96px}
+.e-Hannover{background-position:-160px -96px}
+.e-Hertha{background-position:-192px -96px}
+.e-Hoffenheim{background-position:-224px -96px}
+.e-Koln{background-position:-256px -96px}
+.e-Leverkusen{background-position:-288px -96px}
+.e-Mainz{background-position:-320px -96px}
+.e-Paderborn{background-position:-352px -96px}
+.e-Schalke{background-position:-384px -96px}
+.e-Stuttgart{background-position:-416px -96px}
+.e-Wolfsburg{background-position:-448px -96px}
+.e-Monchengladbach{background-position:-480px -96px}
+.e-Liberec{background-position:-512px -96px}
+.e-DinamoMinsk{background-position:-544px -96px}
+.e-Plzen{background-position:-576px -96px}
+.e-Ludogorets{background-position:-608px -96px}
+.e-Salzburg{background-position:-640px -96px}
+.e-Malmo{background-position:-672px -96px}
+.e-Copenhaga{background-position:-704px -96px}
+.e-Besiktas{background-position:-736px -96px}
+.e-Maribor{background-position:-768px -96px}
+.e-Celtic{background-position:-800px -96px}
+.e-Porto{background-position:-832px -96px}
+.e-StandardLiege{background-position:-864px -96px}
+.e-Zenit{background-position:-896px -96px}
+.e-Aalborg{background-position:-928px -96px}
+.e-APOEL{background-position:-960px -96px}
+.e-SlovanBratislava{background-position:-992px -96px}
+.e-BATE{background-position:-1024px -96px}
+.e-DinamoZagreb{background-position:-1056px -96px}
+.e-FCKrasnodar{background-position:-1088px -96px}
+.e-Lokeren{background-position:-1120px -96px}
+.e-Sarajevo{background-position:-1152px -96px}
+.e-Zimbru{background-position:-1184px -96px}
+.e-PAOKSalonic{background-position:-1216px -96px}
+.e-Panathinaikos{background-position:-1248px -96px}
+.e-Midtjylland{background-position:-1280px -96px}
+.e-Rijeka{background-position:-1312px -96px}
+.e-Dnipro{background-position:-1344px -96px}
+.e-HajdukSplit{background-position:-1376px -96px}
+.e-Stjarnan{background-position:-1408px -96px}
+.e-Sheriff{background-position:-1440px -96px}
+.e-RNKSplit{background-position:-1472px -96px}
+.e-Olympiakos{background-position:-1504px -96px}
+.e-FCBasel{background-position:-1536px -96px}
+.e-Benfica{background-position:-1568px -96px}
+.e-Galatasaray{background-position:-0px -128px}
+.e-Anderlecht{background-position:-32px -128px}
+.e-TSKAMoscova{background-position:-64px -128px}
+.e-Ajax{background-position:-96px -128px}
+.e-Sporting{background-position:-128px -128px}
+.e-Shakhtar{background-position:-160px -128px}
+.e-Cehia{background-position:-192px -128px}
+.e-Olanda{background-position:-224px -128px}
+.e-Turcia{background-position:-256px -128px}
+.e-Letonia{background-position:-288px -128px}
+.e-Islanda{background-position:-320px -128px}
+.e-Kazakhstan{background-position:-352px -128px}
+.e-Belgia{background-position:-384px -128px}
+.e-Israel{background-position:-416px -128px}
+.e-Andorra{background-position:-448px -128px}
+.e-Cipru{background-position:-480px -128px}
+.e-Bosnia{background-position:-512px -128px}
+.e-TaraGalilor{background-position:-544px -128px}
+.e-Spania{background-position:-576px -128px}
+.e-Macedonia{background-position:-608px -128px}
+.e-Slovacia{background-position:-640px -128px}
+.e-Belarus{background-position:-672px -128px}
+.e-Ucraina{background-position:-704px -128px}
+.e-Luxemburg{background-position:-736px -128px}
+.e-Polonia{background-position:-768px -128px}
+.e-Germania{background-position:-800px -128px}
+.e-Scotia{background-position:-832px -128px}
+.e-Georgia{background-position:-864px -128px}
+.e-Irlanda{background-position:-896px -128px}
+.e-Gibraltar{background-position:-928px -128px}
+.e-Elvetia{background-position:-960px -128px}
+.e-Estonia{background-position:-992px -128px}
+.e-Slovenia{background-position:-1024px -128px}
+.e-Anglia{background-position:-1056px -128px}
+.e-Lituania{background-position:-1088px -128px}
+.e-SanMarino{background-position:-1120px -128px}
+.e-Romania{background-position:-1152px -128px}
+.e-Grecia{background-position:-1184px -128px}
+.e-IrlandaDeNord{background-position:-1216px -128px}
+.e-Ungaria{background-position:-1248px -128px}
+.e-InsuleleFeroe{background-position:-1280px -128px}
+.e-Finlanda{background-position:-1312px -128px}
+.e-Suedia{background-position:-1344px -128px}
+.e-Austria{background-position:-1376px -128px}
+.e-Rusia{background-position:-1408px -128px}
+.e-Moldova{background-position:-1440px -128px}
+.e-Muntenegru{background-position:-1472px -128px}
+.e-Liechtenstein{background-position:-1504px -128px}
+.e-Italia{background-position:-1536px -128px}
+.e-Croatia{background-position:-1568px -128px}
+.e-Norvegia{background-position:-0px -160px}
+.e-Malta{background-position:-32px -160px}
+.e-Bulgaria{background-position:-64px -160px}
+.e-Azerbaijan{background-position:-96px -160px}
+.e-Portugalia{background-position:-128px -160px}
+.e-Armenia{background-position:-160px -160px}
+.e-Albania{background-position:-192px -160px}
+.e-Danemarca{background-position:-224px -160px}
+.e-Serbia{background-position:-256px -160px}
+.e-Franta{background-position:-288px -160px}
+.e-Apollon{background-position:-320px -160px}
+.e-FCZurich{background-position:-352px -160px}
+.e-ClubBrugge{background-position:-384px -160px}
+.e-HJKHelsinki{background-position:-416px -160px}
+.e-AsterasTripoli{background-position:-448px -160px}
+.e-Partizan{background-position:-480px -160px}
+.e-PSVEindhoven{background-position:-512px -160px}
+.e-EstorilPraia{background-position:-544px -160px}
+.e-DinamoMoscova{background-position:-576px -160px}
+.e-Qarabag{background-position:-608px -160px}
+.e-Feyenoord{background-position:-640px -160px}
+.e-SpartaPraga{background-position:-672px -160px}
+.e-YoungBoys{background-position:-704px -160px}
+.e-RioAve{background-position:-736px -160px}
+.e-DinamoKiev{background-position:-768px -160px}
+.e-LegiaVarsovia{background-position:-800px -160px}
+.e-Trabzonspor{background-position:-832px -160px}
+.e-Metalist{background-position:-864px -160px}
+.e-CFBraila{background-position:-896px -160px}
+.e-Pancota{background-position:-928px -160px}
+.e-RamnicuValcea{background-position:-960px -160px}
+.e-RapidSuceava{background-position:-992px -160px}
+.e-Axintele{background-position:-1024px -160px}
+.e-UnireaJucu{background-position:-1056px -160px}
+.e-PoianaCampina{background-position:-1088px -160px}
+.e-FCCaransebes{background-position:-1120px -160px}
+.e-FCBihor{background-position:-1152px -160px}
+.e-ACSBerceni{background-position:-1184px -160px}
+.e-CSMioveni{background-position:-1216px -160px}
+.e-SageataNavodari{background-position:-1248px -160px}
+.e-SCBacau{background-position:-1280px -160px}
+.e-Targoviste{background-position:-1312px -160px}
+.e-GuineeaEcuatoriala{background-position:-1344px -160px}
+.e-BurkinaFaso{background-position:-1376px -160px}
+.e-Gabon{background-position:-1408px -160px}
+.e-Congo{background-position:-1440px -160px}
+.e-CapulVerde{background-position:-1472px -160px}
+.e-Tunisia{background-position:-1504px -160px}
+.e-DRCongo{background-position:-1536px -160px}
+.e-Zambia{background-position:-1568px -160px}
+.e-Algeria{background-position:-0px -192px}
+.e-Senegal{background-position:-32px -192px}
+.e-Ghana{background-position:-64px -192px}
+.e-AfricaDeSud{background-position:-96px -192px}
+.e-Camerun{background-position:-128px -192px}
+.e-CoastaDeFildes{background-position:-160px -192px}
+.e-Guinea{background-position:-192px -192px}
+.e-Mali{background-position:-224px -192px}
+.e-Ecuador{background-position:-256px -192px}
+.e-Bolivia{background-position:-288px -192px}
+.e-Chile{background-position:-320px -192px}
+.e-Paraguay{background-position:-352px -192px}
+.e-Jamaica{background-position:-384px -192px}
+.e-Peru{background-position:-416px -192px}
+.e-Venezuela{background-position:-448px -192px}
+.e-Mexic{background-position:-480px -192px}
+.e-Argentina{background-position:-512px -192px}
+.e-Uruguay{background-position:-544px -192px}
+.e-Columbia{background-position:-576px -192px}
+.e-Brazilia{background-position:-608px -192px}
+.e-Tskhinvali{background-position:-640px -192px}
+.e-FCVoluntari{background-position:-672px -192px}
+.e-ACSPoliTimisoara{background-position:-704px -192px}
+.e-ASTrencin{background-position:-736px -192px}
+.e-Milsami{background-position:-768px -192px}
+.e-FCAstana{background-position:-800px -192px}
+.e-VardarSkopje{background-position:-832px -192px}
+.e-LokomotivaZagreb{background-position:-864px -192px}
+.e-Birkirkara{background-position:-896px -192px}
+.e-Inverness{background-position:-928px -192px}
+.e-Reykjavik{background-position:-960px -192px}
+.e-Rosenborg{background-position:-992px -192px}
+.e-Fenerbahce{background-position:-1024px -192px}
+.e-GazelecAjaccio{background-position:-1056px -192px}
+.e-Troyes{background-position:-1088px -192px}
+.e-Angers{background-position:-1120px -192px}
+.e-Ingolstadt{background-position:-1152px -192px}
+.e-Darmstadt{background-position:-1184px -192px}
+.e-Bournemouth{background-position:-1216px -192px}
+.e-Watford{background-position:-1248px -192px}
+.e-NorwichCity{background-position:-1280px -192px}
+.e-Maccabi{background-position:-1312px -192px}
+.e-RapidViena{background-position:-1344px -192px}
+.e-Skenderbeu{background-position:-1376px -192px}
+.e-Frosinone{background-position:-1408px -192px}
+.e-Bologna{background-position:-1440px -192px}
+.e-Carpi{background-position:-1472px -192px}
+.e-RealBetis{background-position:-1504px -192px}
+.e-LasPalmas{background-position:-1536px -192px}
+.e-Gijon{background-position:-1568px -192px}
+.e-Alkmaar{background-position:-0px -224px}
+.e-KAAGent{background-position:-32px -224px}
+.e-MoldeFK{background-position:-64px -224px}
+.e-RubinKazan{background-position:-96px -224px}
+.e-FCSion{background-position:-128px -224px}
+.e-FKQabala{background-position:-160px -224px}
+.e-Braga{background-position:-192px -224px}
+.e-FCGroningen{background-position:-224px -224px}
+.e-LokomotivMoscova{background-position:-256px -224px}
+.e-LechPoznan{background-position:-288px -224px}
+.e-Belenenses{background-position:-320px -224px}
+.e-Viitorul2{background-position:-352px -224px}
+.e-BaiaMare{background-position:-384px -224px}
+.e-Reading{background-position:-416px -224px}
+.e-LeedsUnited{background-position:-448px -224px}
+.e-Blackburn{background-position:-480px -224px}
+.e-Shrewsbury{background-position:-512px -224px}
+.e-Granville{background-position:-544px -224px}
+.e-Sochaux{background-position:-576px -224px}
+.e-America{background-position:-608px -224px}
+.e-CostaRica{background-position:-640px -224px}
+.e-Haiti{background-position:-672px -224px}
+.e-Panama{background-position:-704px -224px}
+.e-Middlesbrough{background-position:-736px -224px}
+.e-ASNancy{background-position:-768px -224px}
+.e-Dijon{background-position:-800px -224px}
+.e-FKRostov{background-position:-832px -224px}
+.e-Dundalk{background-position:-864px -224px}
+.e-BeerSheva{background-position:-896px -224px}
+.e-CDLeganes{background-position:-928px -224px}
+.e-Osasuna{background-position:-960px -224px}
+.e-Alaves{background-position:-992px -224px}
+.e-Pescara{background-position:-1024px -224px}
+.e-Crotone{background-position:-1056px -224px}
+.e-RBLeipzig{background-position:-1088px -224px}
+.e-Zorya{background-position:-1120px -224px}
+.e-AustriaViena{background-position:-1152px -224px}
+.e-KRCGenk{background-position:-1184px -224px}
+.e-Konyaspor{background-position:-1216px -224px}
+.e-Osmanlispor{background-position:-1248px -224px}
+.e-Kosovo{background-position:-1280px -224px}
+.e-Qabala{background-position:-1312px -224px}
+.e-GuineeaBissau{background-position:-1344px -224px}
+.e-Zimbabwe{background-position:-1376px -224px}
+.e-Maroc{background-position:-1408px -224px}
+.e-Togo{background-position:-1440px -224px}
+.e-Egipt{background-position:-1472px -224px}
+.e-Uganda{background-position:-1504px -224px}
+.e-Alcorcon{background-position:-1536px -224px}
+.e-Sandhausen{background-position:-1568px -224px}
+.e-Lotte{background-position:-0px -256px}
+.e-Bielefeld{background-position:-32px -256px}
+.e-Millwall{background-position:-64px -256px}
+.e-LincolnCity{background-position:-96px -256px}
+.e-UTAArad{background-position:-128px -256px}
+.e-Brighton{background-position:-160px -256px}
+.e-Huddersfield{background-position:-192px -256px}
+.e-Sepsi{background-position:-224px -256px}
+.e-DacoGeticaBucuresti{background-position:-256px -256px}
+.e-Strasbourg{background-position:-288px -256px}
+.e-Amiens{background-position:-320px -256px}
+.e-SPAL2013{background-position:-352px -256px}
+.e-Benevento{background-position:-384px -256px}
+.e-Girona{background-position:-416px -256px}
+.e-ZiraFK{background-position:-448px -256px}
+.e-Oleksandria{background-position:-480px -256px}
+.e-SlaviaPraga{background-position:-512px -256px}
+.e-AEKAtena{background-position:-544px -256px}
+.e-Hafnarfjordur{background-position:-576px -256px}
+.e-Basaksehir{background-position:-608px -256px}
+.e-SpartakMoscova{background-position:-640px -256px}
+.e-FCZlin{background-position:-672px -256px}
+.e-Lugano{background-position:-704px -256px}
+.e-SteauaRosie{background-position:-736px -256px}
+.e-VitoriaGuimaraes{background-position:-768px -256px}
+.e-Ostersunds{background-position:-800px -256px}
+.e-ZulteWaregem{background-position:-832px -256px}
+.e-VitesseArnhem{background-position:-864px -256px}
+.e-Nigeria{background-position:-896px -256px}
+.e-CSAfumati{background-position:-928px -256px}
+.e-CSMSlobozia{background-position:-960px -256px}
+.e-FCHermannstadt{background-position:-992px -256px}
+.e-ArabiaSaudita{background-position:-1024px -256px}
+.e-Iran{background-position:-1056px -256px}
+.e-Australia{background-position:-1088px -256px}
+.e-CoreeaDeSud{background-position:-1120px -256px}
+.e-Japonia{background-position:-1152px -256px}
+.e-Pordenone{background-position:-1184px -256px}
+.e-ASCittadella{background-position:-1216px -256px}
+.e-Nurnberg{background-position:-1248px -256px}
+.e-Heidenheim{background-position:-1280px -256px}
+.e-BourgPeronnas{background-position:-1312px -256px}
+.e-SheffieldUnited{background-position:-1344px -256px}
+.e-SheffieldWednesday{background-position:-1376px -256px}
+.e-CoventryCity{background-position:-1408px -256px}
+.e-WiganAthletic{background-position:-1440px -256px}
+.e-Rochdale{background-position:-1472px -256px}
+.e-LesHerbiers{background-position:-1504px -256px}
+.e-FCChambly{background-position:-1536px -256px}
+.e-Fulham{background-position:-1568px -256px}
+.e-DunareaCalarasi{background-position:-0px -288px}
+.e-RacingLuxembourg{background-position:-32px -288px}
+.e-SturmGraz{background-position:-64px -288px}
+.e-NKRudar{background-position:-96px -288px}
+.e-Energeticianul{background-position:-128px -288px}
+.e-FarulConstanta{background-position:-160px -288px}
+.e-FCArges{background-position:-192px -288px}
+.e-Ripensia{background-position:-224px -288px}
+.e-SportulSnagov{background-position:-256px -288px}
+.e-PolitehnicaTimisoara{background-position:-288px -288px}
+.e-AcademicaClinceni{background-position:-320px -288px}
+.e-DaciaUnireaBraila{background-position:-352px -288px}
+.e-AerostarBacau{background-position:-384px -288px}
+.e-CSBalotesti{background-position:-416px -288px}
+.e-Metaloglobus{background-position:-448px -288px}
+.e-LuceafarulOradea{background-position:-480px -288px}
+.e-Wolverhampton{background-position:-512px -288px}
+.e-Cardiff{background-position:-544px -288px}
+.e-Nimes{background-position:-576px -288px}
+.e-MOLVidi{background-position:-608px -288px}
+.e-SpartakTrnava{background-position:-640px -288px}
+.e-KFShkendija{background-position:-672px -288px}
+.e-AlashkertFC{background-position:-704px -288px}
+.e-SDHuesca{background-position:-736px -288px}
+.e-Valladolid{background-position:-768px -288px}
+.e-Dudelange{background-position:-800px -288px}
+.e-TorpedoKutaisi{background-position:-832px -288px}
+.e-SigmaOlomouc{background-position:-864px -288px}
+.e-Suduva{background-position:-896px -288px}
+.e-Sarpsborg{background-position:-928px -288px}
+.e-BrondbyIF{background-position:-960px -288px}
+.e-OlimpijaLjubljana{background-position:-992px -288px}
+.e-Rangers{background-position:-1024px -288px}
+.e-FCUfa{background-position:-1056px -288px}
+.e-AEKLarnaca{background-position:-1088px -288px}
+.e-Dusseldorf{background-position:-1120px -288px}
+.e-Nurnberg{background-position:-1152px -288px}
+.e-AkhisarBelediyespor{background-position:-1184px -288px}
+.e-VorsklaPoltava{background-position:-1216px -288px}
+.e-Jablonec{background-position:-1248px -288px}
+.e-TurnuMagurele{background-position:-1280px -288px}
+.e-UnireaAlbaIulia{background-position:-1312px -288px}
+.e-Blackpool{background-position:-1344px -288px}
+.e-DerbyCounty{background-position:-1376px -288px}
+.e-Rodinghausen{background-position:-1408px -288px}
+.e-UnionBerlin{background-position:-1440px -288px}
+.e-MiercureaCiuc{background-position:-1472px -288px}
+.echipam{background-image:url(//stvron.com/echipe/echipe-mici-v738.png)}
+.liga-1{background-position:-0px -0px}
+.liga-campionilor{background-position:-16px -0px}
+.cupa-ligii{background-position:-32px -0px}
+.europa-league{background-position:-48px -0px}
+.primera-division{background-position:-64px -0px}
+.premier-league{background-position:-80px -0px}
+.serie-a{background-position:-96px -0px}
+.ligue-1{background-position:-112px -0px}
+.bundesliga{background-position:-128px -0px}
+.calificari-euro{background-position:-144px -0px}
+.cupa-romaniei{background-position:-160px -0px}
+.meciuri-amicale{background-position:-176px -0px}
+.cupa-africii{background-position:-192px -0px}
+.copa-america{background-position:-208px -0px}
+.euro-2016{background-position:-224px -0px}
+.cupa-spaniei{background-position:-240px -0px}
+.cupa-angliei{background-position:-256px -0px}
+.cupa-italiei{background-position:-272px -0px}
+.cupa-frantei{background-position:-288px -0px}
+.cupa-germaniei{background-position:-304px -0px}
+.calificari-mondiale{background-position:-320px -0px}
+.cupa-mondiala{background-position:-336px -0px}
+.liga-2{background-position:-352px -0px}
+.liga-natiunilor-divizia-a{background-position:-368px -0px}
+.liga-natiunilor-divizia-b{background-position:-384px -0px}
+.liga-natiunilor-divizia-c{background-position:-400px -0px}
+.liga-natiunilor-divizia-d{background-position:-416px -0px}
+.u21{background-position:-432px -0px}
+.efl-cup{background-position:-448px -0px}
+.Dinamo{background-position:-0px -16px}
+.FCSB{background-position:-16px -16px}
+.CFRCluj{background-position:-32px -16px}
+.Astra{background-position:-48px -16px}
+.Petrolul{background-position:-64px -16px}
+.Pandurii{background-position:-80px -16px}
+.FCBotosani{background-position:-96px -16px}
+.Ceahlaul{background-position:-112px -16px}
+.Otelul{background-position:-128px -16px}
+.uCluj{background-position:-144px -16px}
+.Viitorul{background-position:-160px -16px}
+.GazMetan{background-position:-176px -16px}
+.Concordia{background-position:-192px -16px}
+.FCBrasov{background-position:-208px -16px}
+.CSMSIasi{background-position:-224px -16px}
+.TarguMures{background-position:-240px -16px}
+.CSUCraiova{background-position:-256px -16px}
+.Rapid{background-position:-272px -16px}
+.Almeria{background-position:-288px -16px}
+.AtleticoMadrid{background-position:-304px -16px}
+.Bilbao{background-position:-320px -16px}
+.CeltaVigo{background-position:-336px -16px}
+.Cordoba{background-position:-352px -16px}
+.Eibar{background-position:-368px -16px}
+.Elche{background-position:-384px -16px}
+.Espanyol{background-position:-400px -16px}
+.FCBarcelona{background-position:-416px -16px}
+.FCSevilla{background-position:-432px -16px}
+.Getafe{background-position:-448px -16px}
+.Granada{background-position:-464px -16px}
+.LaCoruna{background-position:-480px -16px}
+.Levante{background-position:-496px -16px}
+.Malaga{background-position:-512px -16px}
+.RayoVallecano{background-position:-528px -16px}
+.RealMadrid{background-position:-544px -16px}
+.RealSociedad{background-position:-560px -16px}
+.Valencia{background-position:-576px -16px}
+.Villarreal{background-position:-592px -16px}
+.Arsenal{background-position:-608px -16px}
+.AstonVilla{background-position:-624px -16px}
+.Burnley{background-position:-640px -16px}
+.Chelsea{background-position:-656px -16px}
+.CrystalPalace{background-position:-672px -16px}
+.Everton{background-position:-688px -16px}
+.HullCity{background-position:-704px -16px}
+.Leicester{background-position:-720px -16px}
+.Liverpool{background-position:-736px -16px}
+.ManCity{background-position:-752px -16px}
+.ManUnited{background-position:-768px -16px}
+.Newcastle{background-position:-784px -16px}
+.QPR{background-position:-0px -32px}
+.Southampton{background-position:-16px -32px}
+.Stoke{background-position:-32px -32px}
+.Sunderland{background-position:-48px -32px}
+.Swansea{background-position:-64px -32px}
+.Tottenham{background-position:-80px -32px}
+.WestBromwich{background-position:-96px -32px}
+.WestHam{background-position:-112px -32px}
+.ACMilan{background-position:-128px -32px}
+.ASRoma{background-position:-144px -32px}
+.Atalanta{background-position:-160px -32px}
+.Cagliari{background-position:-176px -32px}
+.Cesena{background-position:-192px -32px}
+.Chievo{background-position:-208px -32px}
+.Empoli{background-position:-224px -32px}
+.Fiorentina{background-position:-240px -32px}
+.Genoa{background-position:-256px -32px}
+.Inter{background-position:-272px -32px}
+.Juventus{background-position:-288px -32px}
+.Lazio{background-position:-304px -32px}
+.Napoli{background-position:-320px -32px}
+.Palermo{background-position:-336px -32px}
+.Parma{background-position:-352px -32px}
+.Sampdoria{background-position:-368px -32px}
+.Sassuolo{background-position:-384px -32px}
+.Torino{background-position:-400px -32px}
+.Udinese{background-position:-416px -32px}
+.Verona{background-position:-432px -32px}
+.Bordeaux{background-position:-448px -32px}
+.Caen{background-position:-464px -32px}
+.Evian{background-position:-480px -32px}
+.Guingamp{background-position:-496px -32px}
+.Lens{background-position:-512px -32px}
+.Lille{background-position:-528px -32px}
+.Lorient{background-position:-544px -32px}
+.Lyon{background-position:-560px -32px}
+.Marseille{background-position:-576px -32px}
+.Metz{background-position:-592px -32px}
+.Montpellier{background-position:-608px -32px}
+.Nantes{background-position:-624px -32px}
+.PSG{background-position:-640px -32px}
+.Reims{background-position:-656px -32px}
+.Rennes{background-position:-672px -32px}
+.SaintEtienne{background-position:-688px -32px}
+.Monaco{background-position:-704px -32px}
+.Toulouse{background-position:-720px -32px}
+.Nice{background-position:-736px -32px}
+.Bastia{background-position:-752px -32px}
+.Augsburg{background-position:-768px -32px}
+.Bayern{background-position:-784px -32px}
+.Bremen{background-position:-0px -48px}
+.Dortmund{background-position:-16px -48px}
+.Frankfurt{background-position:-32px -48px}
+.Freiburg{background-position:-48px -48px}
+.Hamburg{background-position:-64px -48px}
+.Hannover{background-position:-80px -48px}
+.Hertha{background-position:-96px -48px}
+.Hoffenheim{background-position:-112px -48px}
+.Koln{background-position:-128px -48px}
+.Leverkusen{background-position:-144px -48px}
+.Mainz{background-position:-160px -48px}
+.Paderborn{background-position:-176px -48px}
+.Schalke{background-position:-192px -48px}
+.Stuttgart{background-position:-208px -48px}
+.Wolfsburg{background-position:-224px -48px}
+.Monchengladbach{background-position:-240px -48px}
+.Liberec{background-position:-256px -48px}
+.DinamoMinsk{background-position:-272px -48px}
+.Plzen{background-position:-288px -48px}
+.Ludogorets{background-position:-304px -48px}
+.Salzburg{background-position:-320px -48px}
+.Malmo{background-position:-336px -48px}
+.Copenhaga{background-position:-352px -48px}
+.Besiktas{background-position:-368px -48px}
+.Maribor{background-position:-384px -48px}
+.Celtic{background-position:-400px -48px}
+.Porto{background-position:-416px -48px}
+.StandardLiege{background-position:-432px -48px}
+.Zenit{background-position:-448px -48px}
+.Aalborg{background-position:-464px -48px}
+.APOEL{background-position:-480px -48px}
+.SlovanBratislava{background-position:-496px -48px}
+.BATE{background-position:-512px -48px}
+.DinamoZagreb{background-position:-528px -48px}
+.FCKrasnodar{background-position:-544px -48px}
+.Lokeren{background-position:-560px -48px}
+.Sarajevo{background-position:-576px -48px}
+.Zimbru{background-position:-592px -48px}
+.PAOKSalonic{background-position:-608px -48px}
+.Panathinaikos{background-position:-624px -48px}
+.Midtjylland{background-position:-640px -48px}
+.Rijeka{background-position:-656px -48px}
+.Dnipro{background-position:-672px -48px}
+.HajdukSplit{background-position:-688px -48px}
+.Stjarnan{background-position:-704px -48px}
+.Sheriff{background-position:-720px -48px}
+.RNKSplit{background-position:-736px -48px}
+.Olympiakos{background-position:-752px -48px}
+.FCBasel{background-position:-768px -48px}
+.Benfica{background-position:-784px -48px}
+.Galatasaray{background-position:-0px -64px}
+.Anderlecht{background-position:-16px -64px}
+.TSKAMoscova{background-position:-32px -64px}
+.Ajax{background-position:-48px -64px}
+.Sporting{background-position:-64px -64px}
+.Shakhtar{background-position:-80px -64px}
+.Cehia{background-position:-96px -64px}
+.Olanda{background-position:-112px -64px}
+.Turcia{background-position:-128px -64px}
+.Letonia{background-position:-144px -64px}
+.Islanda{background-position:-160px -64px}
+.Kazakhstan{background-position:-176px -64px}
+.Belgia{background-position:-192px -64px}
+.Israel{background-position:-208px -64px}
+.Andorra{background-position:-224px -64px}
+.Cipru{background-position:-240px -64px}
+.Bosnia{background-position:-256px -64px}
+.TaraGalilor{background-position:-272px -64px}
+.Spania{background-position:-288px -64px}
+.Macedonia{background-position:-304px -64px}
+.Slovacia{background-position:-320px -64px}
+.Belarus{background-position:-336px -64px}
+.Ucraina{background-position:-352px -64px}
+.Luxemburg{background-position:-368px -64px}
+.Polonia{background-position:-384px -64px}
+.Germania{background-position:-400px -64px}
+.Scotia{background-position:-416px -64px}
+.Georgia{background-position:-432px -64px}
+.Irlanda{background-position:-448px -64px}
+.Gibraltar{background-position:-464px -64px}
+.Elvetia{background-position:-480px -64px}
+.Estonia{background-position:-496px -64px}
+.Slovenia{background-position:-512px -64px}
+.Anglia{background-position:-528px -64px}
+.Lituania{background-position:-544px -64px}
+.SanMarino{background-position:-560px -64px}
+.Romania{background-position:-576px -64px}
+.Grecia{background-position:-592px -64px}
+.IrlandaDeNord{background-position:-608px -64px}
+.Ungaria{background-position:-624px -64px}
+.InsuleleFeroe{background-position:-640px -64px}
+.Finlanda{background-position:-656px -64px}
+.Suedia{background-position:-672px -64px}
+.Austria{background-position:-688px -64px}
+.Rusia{background-position:-704px -64px}
+.Moldova{background-position:-720px -64px}
+.Muntenegru{background-position:-736px -64px}
+.Liechtenstein{background-position:-752px -64px}
+.Italia{background-position:-768px -64px}
+.Croatia{background-position:-784px -64px}
+.Norvegia{background-position:-0px -80px}
+.Malta{background-position:-16px -80px}
+.Bulgaria{background-position:-32px -80px}
+.Azerbaijan{background-position:-48px -80px}
+.Portugalia{background-position:-64px -80px}
+.Armenia{background-position:-80px -80px}
+.Albania{background-position:-96px -80px}
+.Danemarca{background-position:-112px -80px}
+.Serbia{background-position:-128px -80px}
+.Franta{background-position:-144px -80px}
+.Apollon{background-position:-160px -80px}
+.FCZurich{background-position:-176px -80px}
+.ClubBrugge{background-position:-192px -80px}
+.HJKHelsinki{background-position:-208px -80px}
+.AsterasTripoli{background-position:-224px -80px}
+.Partizan{background-position:-240px -80px}
+.PSVEindhoven{background-position:-256px -80px}
+.EstorilPraia{background-position:-272px -80px}
+.DinamoMoscova{background-position:-288px -80px}
+.Qarabag{background-position:-304px -80px}
+.Feyenoord{background-position:-320px -80px}
+.SpartaPraga{background-position:-336px -80px}
+.YoungBoys{background-position:-352px -80px}
+.RioAve{background-position:-368px -80px}
+.DinamoKiev{background-position:-384px -80px}
+.LegiaVarsovia{background-position:-400px -80px}
+.Trabzonspor{background-position:-416px -80px}
+.Metalist{background-position:-432px -80px}
+.CFBraila{background-position:-448px -80px}
+.Pancota{background-position:-464px -80px}
+.RamnicuValcea{background-position:-480px -80px}
+.RapidSuceava{background-position:-496px -80px}
+.Axintele{background-position:-512px -80px}
+.UnireaJucu{background-position:-528px -80px}
+.PoianaCampina{background-position:-544px -80px}
+.FCCaransebes{background-position:-560px -80px}
+.FCBihor{background-position:-576px -80px}
+.ACSBerceni{background-position:-592px -80px}
+.CSMioveni{background-position:-608px -80px}
+.SageataNavodari{background-position:-624px -80px}
+.SCBacau{background-position:-640px -80px}
+.Targoviste{background-position:-656px -80px}
+.GuineeaEcuatoriala{background-position:-672px -80px}
+.BurkinaFaso{background-position:-688px -80px}
+.Gabon{background-position:-704px -80px}
+.Congo{background-position:-720px -80px}
+.CapulVerde{background-position:-736px -80px}
+.Tunisia{background-position:-752px -80px}
+.DRCongo{background-position:-768px -80px}
+.Zambia{background-position:-784px -80px}
+.Algeria{background-position:-0px -96px}
+.Senegal{background-position:-16px -96px}
+.Ghana{background-position:-32px -96px}
+.AfricaDeSud{background-position:-48px -96px}
+.Camerun{background-position:-64px -96px}
+.CoastaDeFildes{background-position:-80px -96px}
+.Guinea{background-position:-96px -96px}
+.Mali{background-position:-112px -96px}
+.Ecuador{background-position:-128px -96px}
+.Bolivia{background-position:-144px -96px}
+.Chile{background-position:-160px -96px}
+.Paraguay{background-position:-176px -96px}
+.Jamaica{background-position:-192px -96px}
+.Peru{background-position:-208px -96px}
+.Venezuela{background-position:-224px -96px}
+.Mexic{background-position:-240px -96px}
+.Argentina{background-position:-256px -96px}
+.Uruguay{background-position:-272px -96px}
+.Columbia{background-position:-288px -96px}
+.Brazilia{background-position:-304px -96px}
+.Tskhinvali{background-position:-320px -96px}
+.FCVoluntari{background-position:-336px -96px}
+.ACSPoliTimisoara{background-position:-352px -96px}
+.ASTrencin{background-position:-368px -96px}
+.Milsami{background-position:-384px -96px}
+.FCAstana{background-position:-400px -96px}
+.VardarSkopje{background-position:-416px -96px}
+.LokomotivaZagreb{background-position:-432px -96px}
+.Birkirkara{background-position:-448px -96px}
+.Inverness{background-position:-464px -96px}
+.Reykjavik{background-position:-480px -96px}
+.Rosenborg{background-position:-496px -96px}
+.Fenerbahce{background-position:-512px -96px}
+.GazelecAjaccio{background-position:-528px -96px}
+.Troyes{background-position:-544px -96px}
+.Angers{background-position:-560px -96px}
+.Ingolstadt{background-position:-576px -96px}
+.Darmstadt{background-position:-592px -96px}
+.Bournemouth{background-position:-608px -96px}
+.Watford{background-position:-624px -96px}
+.NorwichCity{background-position:-640px -96px}
+.Maccabi{background-position:-656px -96px}
+.RapidViena{background-position:-672px -96px}
+.Skenderbeu{background-position:-688px -96px}
+.Frosinone{background-position:-704px -96px}
+.Bologna{background-position:-720px -96px}
+.Carpi{background-position:-736px -96px}
+.RealBetis{background-position:-752px -96px}
+.LasPalmas{background-position:-768px -96px}
+.Gijon{background-position:-784px -96px}
+.Alkmaar{background-position:-0px -112px}
+.KAAGent{background-position:-16px -112px}
+.MoldeFK{background-position:-32px -112px}
+.RubinKazan{background-position:-48px -112px}
+.FCSion{background-position:-64px -112px}
+.FKQabala{background-position:-80px -112px}
+.Braga{background-position:-96px -112px}
+.FCGroningen{background-position:-112px -112px}
+.LokomotivMoscova{background-position:-128px -112px}
+.LechPoznan{background-position:-144px -112px}
+.Belenenses{background-position:-160px -112px}
+.Viitorul2{background-position:-176px -112px}
+.BaiaMare{background-position:-192px -112px}
+.Reading{background-position:-208px -112px}
+.LeedsUnited{background-position:-224px -112px}
+.Blackburn{background-position:-240px -112px}
+.Shrewsbury{background-position:-256px -112px}
+.Granville{background-position:-272px -112px}
+.Sochaux{background-position:-288px -112px}
+.America{background-position:-304px -112px}
+.CostaRica{background-position:-320px -112px}
+.Haiti{background-position:-336px -112px}
+.Panama{background-position:-352px -112px}
+.Middlesbrough{background-position:-368px -112px}
+.ASNancy{background-position:-384px -112px}
+.Dijon{background-position:-400px -112px}
+.FKRostov{background-position:-416px -112px}
+.Dundalk{background-position:-432px -112px}
+.BeerSheva{background-position:-448px -112px}
+.CDLeganes{background-position:-464px -112px}
+.Osasuna{background-position:-480px -112px}
+.Alaves{background-position:-496px -112px}
+.Pescara{background-position:-512px -112px}
+.Crotone{background-position:-528px -112px}
+.RBLeipzig{background-position:-544px -112px}
+.Zorya{background-position:-560px -112px}
+.AustriaViena{background-position:-576px -112px}
+.KRCGenk{background-position:-592px -112px}
+.Konyaspor{background-position:-608px -112px}
+.Osmanlispor{background-position:-624px -112px}
+.Kosovo{background-position:-640px -112px}
+.Qabala{background-position:-656px -112px}
+.GuineeaBissau{background-position:-672px -112px}
+.Zimbabwe{background-position:-688px -112px}
+.Maroc{background-position:-704px -112px}
+.Togo{background-position:-720px -112px}
+.Egipt{background-position:-736px -112px}
+.Uganda{background-position:-752px -112px}
+.Alcorcon{background-position:-768px -112px}
+.Sandhausen{background-position:-784px -112px}
+.Lotte{background-position:-0px -128px}
+.Bielefeld{background-position:-16px -128px}
+.Millwall{background-position:-32px -128px}
+.LincolnCity{background-position:-48px -128px}
+.UTAArad{background-position:-64px -128px}
+.Brighton{background-position:-80px -128px}
+.Huddersfield{background-position:-96px -128px}
+.Sepsi{background-position:-112px -128px}
+.DacoGeticaBucuresti{background-position:-128px -128px}
+.Strasbourg{background-position:-144px -128px}
+.Amiens{background-position:-160px -128px}
+.SPAL2013{background-position:-176px -128px}
+.Benevento{background-position:-192px -128px}
+.Girona{background-position:-208px -128px}
+.ZiraFK{background-position:-224px -128px}
+.Oleksandria{background-position:-240px -128px}
+.SlaviaPraga{background-position:-256px -128px}
+.AEKAtena{background-position:-272px -128px}
+.Hafnarfjordur{background-position:-288px -128px}
+.Basaksehir{background-position:-304px -128px}
+.SpartakMoscova{background-position:-320px -128px}
+.FCZlin{background-position:-336px -128px}
+.Lugano{background-position:-352px -128px}
+.SteauaRosie{background-position:-368px -128px}
+.VitoriaGuimaraes{background-position:-384px -128px}
+.Ostersunds{background-position:-400px -128px}
+.ZulteWaregem{background-position:-416px -128px}
+.VitesseArnhem{background-position:-432px -128px}
+.Nigeria{background-position:-448px -128px}
+.CSAfumati{background-position:-464px -128px}
+.CSMSlobozia{background-position:-480px -128px}
+.FCHermannstadt{background-position:-496px -128px}
+.ArabiaSaudita{background-position:-512px -128px}
+.Iran{background-position:-528px -128px}
+.Australia{background-position:-544px -128px}
+.CoreeaDeSud{background-position:-560px -128px}
+.Japonia{background-position:-576px -128px}
+.Pordenone{background-position:-592px -128px}
+.ASCittadella{background-position:-608px -128px}
+.Nurnberg{background-position:-624px -128px}
+.Heidenheim{background-position:-640px -128px}
+.BourgPeronnas{background-position:-656px -128px}
+.SheffieldUnited{background-position:-672px -128px}
+.SheffieldWednesday{background-position:-688px -128px}
+.CoventryCity{background-position:-704px -128px}
+.WiganAthletic{background-position:-720px -128px}
+.Rochdale{background-position:-736px -128px}
+.LesHerbiers{background-position:-752px -128px}
+.FCChambly{background-position:-768px -128px}
+.Fulham{background-position:-784px -128px}
+.DunareaCalarasi{background-position:-0px -144px}
+.RacingLuxembourg{background-position:-16px -144px}
+.SturmGraz{background-position:-32px -144px}
+.NKRudar{background-position:-48px -144px}
+.Energeticianul{background-position:-64px -144px}
+.FarulConstanta{background-position:-80px -144px}
+.FCArges{background-position:-96px -144px}
+.Ripensia{background-position:-112px -144px}
+.SportulSnagov{background-position:-128px -144px}
+.PolitehnicaTimisoara{background-position:-144px -144px}
+.AcademicaClinceni{background-position:-160px -144px}
+.DaciaUnireaBraila{background-position:-176px -144px}
+.AerostarBacau{background-position:-192px -144px}
+.CSBalotesti{background-position:-208px -144px}
+.Metaloglobus{background-position:-224px -144px}
+.LuceafarulOradea{background-position:-240px -144px}
+.Wolverhampton{background-position:-256px -144px}
+.Cardiff{background-position:-272px -144px}
+.Nimes{background-position:-288px -144px}
+.MOLVidi{background-position:-304px -144px}
+.SpartakTrnava{background-position:-320px -144px}
+.KFShkendija{background-position:-336px -144px}
+.AlashkertFC{background-position:-352px -144px}
+.SDHuesca{background-position:-368px -144px}
+.Valladolid{background-position:-384px -144px}
+.Dudelange{background-position:-400px -144px}
+.TorpedoKutaisi{background-position:-416px -144px}
+.SigmaOlomouc{background-position:-432px -144px}
+.Suduva{background-position:-448px -144px}
+.Sarpsborg{background-position:-464px -144px}
+.BrondbyIF{background-position:-480px -144px}
+.OlimpijaLjubljana{background-position:-496px -144px}
+.Rangers{background-position:-512px -144px}
+.FCUfa{background-position:-528px -144px}
+.AEKLarnaca{background-position:-544px -144px}
+.Dusseldorf{background-position:-560px -144px}
+.Nurnberg{background-position:-576px -144px}
+.AkhisarBelediyespor{background-position:-592px -144px}
+.VorsklaPoltava{background-position:-608px -144px}
+.Jablonec{background-position:-624px -144px}
+.TurnuMagurele{background-position:-640px -144px}
+.UnireaAlbaIulia{background-position:-656px -144px}
+.Blackpool{background-position:-672px -144px}
+.DerbyCounty{background-position:-688px -144px}
+.Rodinghausen{background-position:-704px -144px}
+.UnionBerlin{background-position:-720px -144px}
+.MiercureaCiuc{background-position:-736px -144px}
+.rmeci .tvmeci{background-image:url(//stvron.com/canale/cat/tvmeci-v738.png)}
+#tvmecimeciuri-online{background-position:-0px 0px}
+#tvmecitelekom-sport-1{background-position:-20px 0px}
+#tvmeciprima-tv{background-position:-40px 0px}
+#tvmecitelekom-sport-2{background-position:-60px 0px}
+#tvmecitelekom-sport-3{background-position:-80px 0px}
+#tvmecitelekom-sport-4{background-position:-100px 0px}
+#tvmeciserie-a-tv{background-position:-120px 0px}
+#tvmeciligue-1-tv{background-position:-140px 0px}
+#tvmecieurosport{background-position:-160px 0px}
+#tvmecieurosport-2{background-position:-180px 0px}
+#tvmecisky-bundesliga{background-position:-200px 0px}
+#tvmecipremier-league-tv{background-position:-220px 0px}
+#tvmeciarenavision{background-position:-240px 0px}
+#tvmecipro-tv{background-position:-260px 0px}
+#tvmecipro-x{background-position:-280px 0px}
+#tvmecitvr-hd{background-position:-300px 0px}
+#tvmecitvr-1{background-position:-320px 0px}
+#tvmecitvr-2{background-position:-340px 0px}
+#tvmecitvr-3{background-position:-360px 0px}
+#tvmeciliga-campionilor-tv{background-position:-380px 0px}
+#tvmecieuropa-league-tv{background-position:-400px 0px}
+#tvmecififa-tv{background-position:-420px 0px}
+#tvmecilook-sport{background-position:-440px 0px}
+#tvmecilook-plus{background-position:-460px 0px}
+#tvmecimatch{background-position:-480px 0px}
+#tvmecisky-sports-uk{background-position:-500px 0px}
+#tvmecisky-sports-italia{background-position:-520px 0px}
+#tvmecisky-sport-de{background-position:-540px 0px}
+#tvmecibt-sport{background-position:-560px 0px}
+#tvmecibein-sports{background-position:-580px 0px}
+#tvmecisport-tv{background-position:-600px 0px}
+#tvmecifootball-ucraina{background-position:-620px 0px}
+#tvmecirussia-sport{background-position:-640px 0px}
+#tvmecisetanta-sports{background-position:-660px 0px}
+#tvmecirai-sport{background-position:-680px 0px}
+#tvmeciarena-sport{background-position:-700px 0px}
+#tvmeciantena-1{background-position:-720px 0px}
+#tvmecicanal-3{background-position:-740px 0px}
+#tvmecizdf{background-position:-760px 0px}
+#tvmeciziggo-sport{background-position:-780px 0px}
+#tvmeciantena-tres{background-position:-800px 0px}
+#tvmecidas-erste{background-position:-820px 0px}
+#tvmeciitv{background-position:-840px 0px}
+#tvmecitve{background-position:-860px 0px}
+#tvmecitsn{background-position:-880px 0px}
+#tvmecifox-sports{background-position:-900px 0px}
+#tvmeciespn{background-position:-920px 0px}
+#tvmecisport-1{background-position:-940px 0px}
+#tvmecisport-cehia{background-position:-960px 0px}
+#tvmecisport-klub{background-position:-980px 0px}
+#tvmecijurnal-tv{background-position:-1000px 0px}
+#tvmecimoldova-sport{background-position:-1020px 0px}
+#tvmecihrt{background-position:-1040px 0px}
+#tvmeciorf{background-position:-1060px 0px}
+#tvmecirai-1{background-position:-1080px 0px}
+#tvmecirts{background-position:-1100px 0px}
+#tvmecim-tv{background-position:-1120px 0px}
+#tvmecisuper-tennis{background-position:-1140px 0px}
+#tvmecibox{background-position:-1160px 0px}
+#tvmecimma-24-7{background-position:-1180px 0px}
+#tvmecinba-tv{background-position:-1200px 0px}
+#tvmecimoto-gp{background-position:-1220px 0px}
+#tvmecishowtime{background-position:-1240px 0px}
+#tvmecirtp{background-position:-1260px 0px}
+#tvmecifrf-tv{background-position:-1280px 0px}
+#tvmeci2-plus-2{background-position:-1300px 0px}
+#tvmecidiema-sport{background-position:-1320px 0px}
+#tvmeciceltic-tv{background-position:-1340px 0px}
+#tvmecikazsport{background-position:-1360px 0px}
+#tvmeciviasat-fotboll{background-position:-1380px 0px}
+#tvmecisport-1-israel{background-position:-1400px 0px}
+#tvmecibelarus-5{background-position:-1420px 0px}
+#tvmecicbc-sport{background-position:-1440px 0px}
+#tvmeciprofit-ro{background-position:-1460px 0px}
+/* Steaguri */
+.flag{float:left;width:24px;margin:0px 4px;height:16px;background-image:url(https://stvron.com/img/steaguri-v738.png);border-radius:3px}
+.a1{background-position:-0px 0px}
+.at{background-position:-24px 0px}
+.be{background-position:-48px 0px}
+.bg{background-position:-72px 0px}
+.ca{background-position:-96px 0px}
+.ch{background-position:-120px 0px}
+.cn{background-position:-144px 0px}
+.cr{background-position:-168px 0px}
+.cy{background-position:-192px 0px}
+.cz{background-position:-216px 0px}
+.de{background-position:-240px 0px}
+.dk{background-position:-264px 0px}
+.ee{background-position:-288px 0px}
+.eg{background-position:-312px 0px}
+.es{background-position:-336px 0px}
+.fi{background-position:-360px 0px}
+.fo{background-position:-384px 0px}
+.fr{background-position:-408px 0px}
+.gb{background-position:-432px 0px}
+.gr{background-position:-456px 0px}
+.hr{background-position:-480px 0px}
+.hu{background-position:-504px 0px}
+.id{background-position:-528px 0px}
+.ie{background-position:-552px 0px}
+.il{background-position:-576px 0px}
+.in{background-position:-600px 0px}
+.is{background-position:-624px 0px}
+.it{background-position:-648px 0px}
+.jp{background-position:-672px 0px}
+.kr{background-position:-696px 0px}
+.kz{background-position:-720px 0px}
+.lt{background-position:-744px 0px}
+.lu{background-position:-768px 0px}
+.lv{background-position:-792px 0px}
+.md{background-position:-816px 0px}
+.mk{background-position:-840px 0px}
+.mt{background-position:-864px 0px}
+.nl{background-position:-888px 0px}
+.no{background-position:-912px 0px}
+.pk{background-position:-936px 0px}
+.pl{background-position:-960px 0px}
+.pt{background-position:-984px 0px}
+.qa{background-position:-1008px 0px}
+.ro{background-position:-1032px 0px}
+.rs{background-position:-1056px 0px}
+.ru{background-position:-1080px 0px}
+.sa{background-position:-1104px 0px}
+.se{background-position:-1128px 0px}
+.sg{background-position:-1152px 0px}
+.sk{background-position:-1176px 0px}
+.th{background-position:-1200px 0px}
+.tr{background-position:-1224px 0px}
+.ua{background-position:-1248px 0px}
+.us{background-position:-1272px 0px}
+.eu{background-position:-1296px 0px}
